@@ -25,7 +25,8 @@
 
                             <h1 data-animation="fadeInUp" data-delay=".5s">Tentang</h1>
                             <div class="stock-text" data-animation="fadeInUp" data-delay=".8s">
-                                <h2>Kami</h2>
+                                <h2>Kami
+                                </h2>
 
                             </div>
                         </div>
