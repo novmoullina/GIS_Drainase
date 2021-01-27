@@ -1,0 +1,29 @@
+{
+    "type" : "FeatureCollection",
+    "crs" : {
+      "type" : "name",
+      "properties" : {
+        "name" : "EPSG:4326"
+      }
+    },
+    "features" : [
+        {
+            "type" : "Feature",
+            "id" : 2,
+            "geometry" : {
+              "type" : "Point",
+              "coordinates" : [
+                101.442255,
+                0.56358799999999998
+              ]
+            },
+            "properties" : {
+              "FID" : 2,
+              "No" : 3,
+              "Lat" : 0.56358799999999998,
+              "Long" : 101.442255,
+              "Nama_Jalan" : "Jl. Mujair 2 "
+            }
+          }
+    ]
+}

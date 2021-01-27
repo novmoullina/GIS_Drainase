@@ -1,0 +1,3305 @@
+{
+  "type" : "FeatureCollection",
+  "crs" : {
+    "type" : "name",
+    "properties" : {
+      "name" : "EPSG:4326"
+    }
+  },
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.43758200000001,
+          0.56430100000000005
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "No" : 1,
+        "Titik" : 1,
+        "Lat" : 0.56430100000000005,
+        "Long" : 101.43758200000001,
+        "Nama_Jalan" : "jl. Bukit Betabuh",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 184,
+        "Lebar__m_" : 0.11,
+        "Kedalaman" : 0.17000000000000001,
+        "Bahan" : " Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "kering",
+        "Akhir_Pemb" : "kering"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.437917,
+          0.56432000000000004
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "No" : 2,
+        "Titik" : 2,
+        "Lat" : 0.56432000000000004,
+        "Long" : 101.437917,
+        "Nama_Jalan" : "jl. Bukit Betabuh",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 184,
+        "Lebar__m_" : 0.11,
+        "Kedalaman" : 0.17000000000000001,
+        "Bahan" : " Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "kering",
+        "Akhir_Pemb" : "kering"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.438261,
+          0.56434300000000004
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "No" : 3,
+        "Titik" : 3,
+        "Lat" : 0.56434300000000004,
+        "Long" : 101.438261,
+        "Nama_Jalan" : "jl. Bukit Betabuh",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 184,
+        "Lebar__m_" : 0.11,
+        "Kedalaman" : 0.17000000000000001,
+        "Bahan" : " Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "kering",
+        "Akhir_Pemb" : "kering"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.43923599999999,
+          0.564442
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "No" : 4,
+        "Titik" : 4,
+        "Lat" : 0.564442,
+        "Long" : 101.43923599999999,
+        "Nama_Jalan" : "jl. Bukit Betabuh",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 184,
+        "Lebar__m_" : 0.11,
+        "Kedalaman" : 0.17000000000000001,
+        "Bahan" : " Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "kering",
+        "Akhir_Pemb" : "kering"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.43940600000001,
+          0.56387200000000004
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "No" : 5,
+        "Titik" : 1,
+        "Lat" : 0.56387200000000004,
+        "Long" : 101.43940600000001,
+        "Nama_Jalan" : "jalan gabus 1",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 125,
+        "Lebar__m_" : 0.46000000000000002,
+        "Kedalaman" : 0.54000000000000004,
+        "Bahan" : " Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.43989000000001,
+          0.56385399999999997
+        ]
+      },
+      "properties" : {
+        "FID" : 5,
+        "No" : 6,
+        "Titik" : 2,
+        "Lat" : 0.56385399999999997,
+        "Long" : 101.43989000000001,
+        "Nama_Jalan" : "jalan gabus 1",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 125,
+        "Lebar__m_" : 0.46000000000000002,
+        "Kedalaman" : 0.54000000000000004,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.440512,
+          0.56375299999999995
+        ]
+      },
+      "properties" : {
+        "FID" : 6,
+        "No" : 7,
+        "Titik" : 3,
+        "Lat" : 0.56375299999999995,
+        "Long" : 101.440512,
+        "Nama_Jalan" : "jalan gabus 1",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 125,
+        "Lebar__m_" : 0.46000000000000002,
+        "Kedalaman" : 0.54000000000000004,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kiri",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.43964699999999,
+          0.56362100000000004
+        ]
+      },
+      "properties" : {
+        "FID" : 7,
+        "No" : 8,
+        "Titik" : 1,
+        "Lat" : 0.56362100000000004,
+        "Long" : 101.43964699999999,
+        "Nama_Jalan" : "jalan gabus 2",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 49,
+        "Lebar__m_" : 0.40999999999999998,
+        "Kedalaman" : 0.51000000000000001,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kiri",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.4401,
+          0.56354700000000002
+        ]
+      },
+      "properties" : {
+        "FID" : 8,
+        "No" : 9,
+        "Titik" : 2,
+        "Lat" : 0.56354700000000002,
+        "Long" : 101.4401,
+        "Nama_Jalan" : "jalan gabus 2",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 49,
+        "Lebar__m_" : 0.40999999999999998,
+        "Kedalaman" : 0.51000000000000001,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kiri",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.440065,
+          0.56329300000000004
+        ]
+      },
+      "properties" : {
+        "FID" : 9,
+        "No" : 10,
+        "Titik" : 1,
+        "Lat" : 0.56329300000000004,
+        "Long" : 101.440065,
+        "Nama_Jalan" : "jalan gabus 3",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 43,
+        "Lebar__m_" : 0.31,
+        "Kedalaman" : 0.46000000000000002,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kiri",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.439682,
+          0.56335400000000002
+        ]
+      },
+      "properties" : {
+        "FID" : 10,
+        "No" : 11,
+        "Titik" : 2,
+        "Lat" : 0.56335400000000002,
+        "Long" : 101.439682,
+        "Nama_Jalan" : "jalan gabus 3",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 43,
+        "Lebar__m_" : 0.31,
+        "Kedalaman" : 0.46000000000000002,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kiri",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44005799999999,
+          0.56314799999999998
+        ]
+      },
+      "properties" : {
+        "FID" : 11,
+        "No" : 12,
+        "Titik" : 1,
+        "Lat" : 0.56314799999999998,
+        "Long" : 101.44005799999999,
+        "Nama_Jalan" : "jalan gabus 4",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 48,
+        "Lebar__m_" : 0.31,
+        "Kedalaman" : 0.54000000000000004,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kiri",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.439915,
+          0.56309699999999996
+        ]
+      },
+      "properties" : {
+        "FID" : 12,
+        "No" : 13,
+        "Titik" : 2,
+        "Lat" : 0.56309699999999996,
+        "Long" : 101.439915,
+        "Nama_Jalan" : "jalan gabus 4",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 48,
+        "Lebar__m_" : 0.31,
+        "Kedalaman" : 0.54000000000000004,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.439646,
+          0.56310800000000005
+        ]
+      },
+      "properties" : {
+        "FID" : 13,
+        "No" : 14,
+        "Titik" : 3,
+        "Lat" : 0.56310800000000005,
+        "Long" : 101.439646,
+        "Nama_Jalan" : "jalan gabus 4",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 53,
+        "Lebar__m_" : 0.64000000000000001,
+        "Kedalaman" : 0.56999999999999995,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44014,
+          0.56289299999999998
+        ]
+      },
+      "properties" : {
+        "FID" : 14,
+        "No" : 15,
+        "Titik" : 1,
+        "Lat" : 0.56289299999999998,
+        "Long" : 101.44014,
+        "Nama_Jalan" : "jalan gabus 5",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 55,
+        "Lebar__m_" : 0.34999999999999998,
+        "Kedalaman" : 0.58999999999999997,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.439966,
+          0.56282900000000002
+        ]
+      },
+      "properties" : {
+        "FID" : 15,
+        "No" : 16,
+        "Titik" : 2,
+        "Lat" : 0.56282900000000002,
+        "Long" : 101.439966,
+        "Nama_Jalan" : "jalan gabus 5",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 55,
+        "Lebar__m_" : 0.34999999999999998,
+        "Kedalaman" : 0.58999999999999997,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.439654,
+          0.56284299999999998
+        ]
+      },
+      "properties" : {
+        "FID" : 16,
+        "No" : 17,
+        "Titik" : 3,
+        "Lat" : 0.56284299999999998,
+        "Long" : 101.439654,
+        "Nama_Jalan" : "jalan gabus 5",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 55,
+        "Lebar__m_" : 0.34999999999999998,
+        "Kedalaman" : 0.58999999999999997,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.440235,
+          0.56266000000000005
+        ]
+      },
+      "properties" : {
+        "FID" : 17,
+        "No" : 18,
+        "Titik" : 1,
+        "Lat" : 0.56266000000000005,
+        "Long" : 101.440235,
+        "Nama_Jalan" : "jalan gabus 6",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 70,
+        "Lebar__m_" : 0.46999999999999997,
+        "Kedalaman" : 0.37,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.440027,
+          0.56257500000000005
+        ]
+      },
+      "properties" : {
+        "FID" : 18,
+        "No" : 19,
+        "Titik" : 2,
+        "Lat" : 0.56257500000000005,
+        "Long" : 101.440027,
+        "Nama_Jalan" : "jalan gabus 6",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 70,
+        "Lebar__m_" : 0.46999999999999997,
+        "Kedalaman" : 0.37,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.439622,
+          0.56258200000000003
+        ]
+      },
+      "properties" : {
+        "FID" : 19,
+        "No" : 20,
+        "Titik" : 3,
+        "Lat" : 0.56258200000000003,
+        "Long" : 101.439622,
+        "Nama_Jalan" : "jalan gabus 6",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 70,
+        "Lebar__m_" : 0.46999999999999997,
+        "Kedalaman" : 0.37,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.440337,
+          0.56239700000000004
+        ]
+      },
+      "properties" : {
+        "FID" : 20,
+        "No" : 21,
+        "Titik" : 1,
+        "Lat" : 0.56239700000000004,
+        "Long" : 101.440337,
+        "Nama_Jalan" : "jalan gabus 7",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 82,
+        "Lebar__m_" : 0.59999999999999998,
+        "Kedalaman" : 0.31,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44006,
+          0.56228599999999995
+        ]
+      },
+      "properties" : {
+        "FID" : 21,
+        "No" : 22,
+        "Titik" : 2,
+        "Lat" : 0.56228599999999995,
+        "Long" : 101.44006,
+        "Nama_Jalan" : "jalan gabus 7",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 82,
+        "Lebar__m_" : 0.59999999999999998,
+        "Kedalaman" : 0.31,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.439618,
+          0.562307
+        ]
+      },
+      "properties" : {
+        "FID" : 22,
+        "No" : 23,
+        "Titik" : 3,
+        "Lat" : 0.562307,
+        "Long" : 101.439618,
+        "Nama_Jalan" : "jalan gabus 7",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 82,
+        "Lebar__m_" : 0.59999999999999998,
+        "Kedalaman" : 0.31,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44015899999999,
+          0.56377900000000003
+        ]
+      },
+      "properties" : {
+        "FID" : 23,
+        "No" : 24,
+        "Titik" : 1,
+        "Lat" : 0.56377900000000003,
+        "Long" : 101.44015899999999,
+        "Nama_Jalan" : "jalan gabus 8",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 184,
+        "Lebar__m_" : 0.52000000000000002,
+        "Kedalaman" : 0.5,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44007999999999,
+          0.56315400000000004
+        ]
+      },
+      "properties" : {
+        "FID" : 24,
+        "No" : 25,
+        "Titik" : 2,
+        "Lat" : 0.56315400000000004,
+        "Long" : 101.44007999999999,
+        "Nama_Jalan" : "jalan gabus 8",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 184,
+        "Lebar__m_" : 0.52000000000000002,
+        "Kedalaman" : 0.5,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.440448,
+          0.56218800000000002
+        ]
+      },
+      "properties" : {
+        "FID" : 25,
+        "No" : 26,
+        "Titik" : 3,
+        "Lat" : 0.56218800000000002,
+        "Long" : 101.440448,
+        "Nama_Jalan" : "jalan gabus 8",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 184,
+        "Lebar__m_" : 0.52000000000000002,
+        "Kedalaman" : 0.5,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44321100000001,
+          0.56442899999999996
+        ]
+      },
+      "properties" : {
+        "FID" : 26,
+        "No" : 27,
+        "Titik" : 1,
+        "Lat" : 0.56442899999999996,
+        "Long" : 101.44321100000001,
+        "Nama_Jalan" : "jalan baung induk",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 172,
+        "Lebar__m_" : 0.63,
+        "Kedalaman" : 0.45000000000000001,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.443476,
+          0.56596299999999999
+        ]
+      },
+      "properties" : {
+        "FID" : 27,
+        "No" : 28,
+        "Titik" : 2,
+        "Lat" : 0.56596299999999999,
+        "Long" : 101.443476,
+        "Nama_Jalan" : "jalan baung induk",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 172,
+        "Lebar__m_" : 0.63,
+        "Kedalaman" : 0.45000000000000001,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.443066,
+          0.56501000000000001
+        ]
+      },
+      "properties" : {
+        "FID" : 28,
+        "No" : 29,
+        "Titik" : 1,
+        "Lat" : 0.56501000000000001,
+        "Long" : 101.443066,
+        "Nama_Jalan" : "jalan baung 1",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 102,
+        "Lebar__m_" : 0.57999999999999996,
+        "Kedalaman" : 0.53000000000000003,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.443198,
+          0.56592100000000001
+        ]
+      },
+      "properties" : {
+        "FID" : 29,
+        "No" : 30,
+        "Titik" : 2,
+        "Lat" : 0.56592100000000001,
+        "Long" : 101.443198,
+        "Nama_Jalan" : "jalan baung 1",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 102,
+        "Lebar__m_" : 0.57999999999999996,
+        "Kedalaman" : 0.53000000000000003,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 30,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.442798,
+          0.56503999999999999
+        ]
+      },
+      "properties" : {
+        "FID" : 30,
+        "No" : 31,
+        "Titik" : 1,
+        "Lat" : 0.56503999999999999,
+        "Long" : 101.442798,
+        "Nama_Jalan" : "jalan baung 2",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 90,
+        "Lebar__m_" : 0.58999999999999997,
+        "Kedalaman" : 0.54000000000000004,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 31,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.442939,
+          0.56585799999999997
+        ]
+      },
+      "properties" : {
+        "FID" : 31,
+        "No" : 32,
+        "Titik" : 2,
+        "Lat" : 0.56585799999999997,
+        "Long" : 101.442939,
+        "Nama_Jalan" : "jalan baung 2",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 90,
+        "Lebar__m_" : 0.58999999999999997,
+        "Kedalaman" : 0.54000000000000004,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 32,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.440855,
+          0.56353200000000003
+        ]
+      },
+      "properties" : {
+        "FID" : 32,
+        "No" : 33,
+        "Titik" : 1,
+        "Lat" : 0.56353200000000003,
+        "Long" : 101.440855,
+        "Nama_Jalan" : "jalan mujair 1",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 147,
+        "Lebar__m_" : 0.41999999999999998,
+        "Kedalaman" : 0.59999999999999998,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 33,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44108199999999,
+          0.564836
+        ]
+      },
+      "properties" : {
+        "FID" : 33,
+        "No" : 34,
+        "Titik" : 2,
+        "Lat" : 0.564836,
+        "Long" : 101.44108199999999,
+        "Nama_Jalan" : "jalan mujair 1",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 147,
+        "Lebar__m_" : 0.41999999999999998,
+        "Kedalaman" : 0.59999999999999998,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 34,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.442255,
+          0.56358799999999998
+        ]
+      },
+      "properties" : {
+        "FID" : 34,
+        "No" : 35,
+        "Titik" : 1,
+        "Lat" : 0.56358799999999998,
+        "Long" : 101.442255,
+        "Nama_Jalan" : "jalan mujair 2",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 150,
+        "Lebar__m_" : 0.46999999999999997,
+        "Kedalaman" : 0.57999999999999996,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 35,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.440928,
+          0.56379599999999996
+        ]
+      },
+      "properties" : {
+        "FID" : 35,
+        "No" : 36,
+        "Titik" : 2,
+        "Lat" : 0.56379599999999996,
+        "Long" : 101.440928,
+        "Nama_Jalan" : "jalan mujair 2",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 150,
+        "Lebar__m_" : 0.46999999999999997,
+        "Kedalaman" : 0.57999999999999996,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 36,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.441157,
+          0.56379299999999999
+        ]
+      },
+      "properties" : {
+        "FID" : 36,
+        "No" : 37,
+        "Titik" : 1,
+        "Lat" : 0.56379299999999999,
+        "Long" : 101.441157,
+        "Nama_Jalan" : "jalan mujair 3",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 112,
+        "Lebar__m_" : 0.40000000000000002,
+        "Kedalaman" : 0.28999999999999998,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 37,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.441316,
+          0.56478399999999995
+        ]
+      },
+      "properties" : {
+        "FID" : 37,
+        "No" : 38,
+        "Titik" : 2,
+        "Lat" : 0.56478399999999995,
+        "Long" : 101.441316,
+        "Nama_Jalan" : "jalan mujair 3",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 112,
+        "Lebar__m_" : 0.40000000000000002,
+        "Kedalaman" : 0.28999999999999998,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 38,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.441413,
+          0.563747
+        ]
+      },
+      "properties" : {
+        "FID" : 38,
+        "No" : 39,
+        "Titik" : 1,
+        "Lat" : 0.563747,
+        "Long" : 101.441413,
+        "Nama_Jalan" : "jalan mujair 4",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 112,
+        "Lebar__m_" : 0.59999999999999998,
+        "Kedalaman" : 0.48999999999999999,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 39,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.441575,
+          0.56474000000000002
+        ]
+      },
+      "properties" : {
+        "FID" : 39,
+        "No" : 40,
+        "Titik" : 2,
+        "Lat" : 0.56474000000000002,
+        "Long" : 101.441575,
+        "Nama_Jalan" : "jalan mujair 4",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 112,
+        "Lebar__m_" : 0.59999999999999998,
+        "Kedalaman" : 0.48999999999999999,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 40,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44167400000001,
+          0.56371300000000002
+        ]
+      },
+      "properties" : {
+        "FID" : 40,
+        "No" : 41,
+        "Titik" : 1,
+        "Lat" : 0.56371300000000002,
+        "Long" : 101.44167400000001,
+        "Nama_Jalan" : "jalan mujair 5",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 113,
+        "Lebar__m_" : 0.56000000000000005,
+        "Kedalaman" : 0.55000000000000004,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 41,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.441852,
+          0.56470200000000004
+        ]
+      },
+      "properties" : {
+        "FID" : 41,
+        "No" : 42,
+        "Titik" : 2,
+        "Lat" : 0.56470200000000004,
+        "Long" : 101.441852,
+        "Nama_Jalan" : "jalan mujair 5",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 113,
+        "Lebar__m_" : 0.56000000000000005,
+        "Kedalaman" : 0.55000000000000004,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 42,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44210200000001,
+          0.56466400000000005
+        ]
+      },
+      "properties" : {
+        "FID" : 42,
+        "No" : 43,
+        "Titik" : 1,
+        "Lat" : 0.56466400000000005,
+        "Long" : 101.44210200000001,
+        "Nama_Jalan" : "jalan mujair 6",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 114,
+        "Lebar__m_" : 0.56999999999999995,
+        "Kedalaman" : 0.40000000000000002,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 43,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.441937,
+          0.56365699999999996
+        ]
+      },
+      "properties" : {
+        "FID" : 43,
+        "No" : 44,
+        "Titik" : 2,
+        "Lat" : 0.56365699999999996,
+        "Long" : 101.441937,
+        "Nama_Jalan" : "jalan mujair 6",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 114,
+        "Lebar__m_" : 0.56999999999999995,
+        "Kedalaman" : 0.40000000000000002,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 44,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.442414,
+          0.56463799999999997
+        ]
+      },
+      "properties" : {
+        "FID" : 44,
+        "No" : 45,
+        "Titik" : 1,
+        "Lat" : 0.56463799999999997,
+        "Long" : 101.442414,
+        "Nama_Jalan" : "jalan mujair 7",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 189,
+        "Lebar__m_" : 0.55000000000000004,
+        "Kedalaman" : 0.52000000000000002,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 45,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.440749,
+          0.56491400000000003
+        ]
+      },
+      "properties" : {
+        "FID" : 45,
+        "No" : 46,
+        "Titik" : 2,
+        "Lat" : 0.56491400000000003,
+        "Long" : 101.440749,
+        "Nama_Jalan" : "jalan mujair 7",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 189,
+        "Lebar__m_" : 0.55000000000000004,
+        "Kedalaman" : 0.52000000000000002,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 46,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44186000000001,
+          0.56333599999999995
+        ]
+      },
+      "properties" : {
+        "FID" : 46,
+        "No" : 47,
+        "Titik" : 3,
+        "Lat" : 0.56333599999999995,
+        "Long" : 101.44186000000001,
+        "Nama_Jalan" : "jalan gurami 1",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 138,
+        "Lebar__m_" : 0.41999999999999998,
+        "Kedalaman" : 0.57999999999999996,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 47,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.441677,
+          0.56211999999999995
+        ]
+      },
+      "properties" : {
+        "FID" : 47,
+        "No" : 48,
+        "Titik" : 2,
+        "Lat" : 0.56211999999999995,
+        "Long" : 101.441677,
+        "Nama_Jalan" : "jalan gurami 1",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 138,
+        "Lebar__m_" : 0.41999999999999998,
+        "Kedalaman" : 0.57999999999999996,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 48,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.441965,
+          0.56200799999999995
+        ]
+      },
+      "properties" : {
+        "FID" : 48,
+        "No" : 49,
+        "Titik" : 1,
+        "Lat" : 0.56200799999999995,
+        "Long" : 101.441965,
+        "Nama_Jalan" : "jalan gurami 2",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 132,
+        "Lebar__m_" : 0.52000000000000002,
+        "Kedalaman" : 0.37,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 49,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.440808,
+          0.56228999999999996
+        ]
+      },
+      "properties" : {
+        "FID" : 49,
+        "No" : 50,
+        "Titik" : 2,
+        "Lat" : 0.56228999999999996,
+        "Long" : 101.440808,
+        "Nama_Jalan" : "jalan gurami 2",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 132,
+        "Lebar__m_" : 0.52000000000000002,
+        "Kedalaman" : 0.37,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 50,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.441654,
+          0.56206299999999998
+        ]
+      },
+      "properties" : {
+        "FID" : 50,
+        "No" : 51,
+        "Titik" : 1,
+        "Lat" : 0.56206299999999998,
+        "Long" : 101.441654,
+        "Nama_Jalan" : "jalan gurami 3",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 74,
+        "Lebar__m_" : 0.52000000000000002,
+        "Kedalaman" : 0.40000000000000002,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 51,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44150500000001,
+          0.56141600000000003
+        ]
+      },
+      "properties" : {
+        "FID" : 51,
+        "No" : 52,
+        "Titik" : 2,
+        "Lat" : 0.56141600000000003,
+        "Long" : 101.44150500000001,
+        "Nama_Jalan" : "jalan gurami 3",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 74,
+        "Lebar__m_" : 0.52000000000000002,
+        "Kedalaman" : 0.40000000000000002,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 52,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.4414,
+          0.56210300000000002
+        ]
+      },
+      "properties" : {
+        "FID" : 52,
+        "No" : 53,
+        "Titik" : 1,
+        "Lat" : 0.56210300000000002,
+        "Long" : 101.4414,
+        "Nama_Jalan" : "jalan gurami 4",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 51,
+        "Lebar__m_" : 0.40000000000000002,
+        "Kedalaman" : 0.37,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 53,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44128499999999,
+          0.56167900000000004
+        ]
+      },
+      "properties" : {
+        "FID" : 53,
+        "No" : 54,
+        "Titik" : 2,
+        "Lat" : 0.56167900000000004,
+        "Long" : 101.44128499999999,
+        "Nama_Jalan" : "jalan gurami 4",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 51,
+        "Lebar__m_" : 0.40000000000000002,
+        "Kedalaman" : 0.37,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 54,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.441142,
+          0.56218900000000005
+        ]
+      },
+      "properties" : {
+        "FID" : 54,
+        "No" : 55,
+        "Titik" : 1,
+        "Lat" : 0.56218900000000005,
+        "Long" : 101.441142,
+        "Nama_Jalan" : "jalan gurami 5",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 52,
+        "Lebar__m_" : 0.37,
+        "Kedalaman" : 0.32000000000000001,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 55,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.441034,
+          0.56173799999999996
+        ]
+      },
+      "properties" : {
+        "FID" : 55,
+        "No" : 56,
+        "Titik" : 2,
+        "Lat" : 0.56173799999999996,
+        "Long" : 101.441034,
+        "Nama_Jalan" : "jalan gurami 5",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 52,
+        "Lebar__m_" : 0.37,
+        "Kedalaman" : 0.32000000000000001,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 56,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.443048,
+          0.56218500000000005
+        ]
+      },
+      "properties" : {
+        "FID" : 56,
+        "No" : 57,
+        "Titik" : 1,
+        "Lat" : 0.56218500000000005,
+        "Long" : 101.443048,
+        "Nama_Jalan" : "jalan keli 1",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 107,
+        "Lebar__m_" : 0.44,
+        "Kedalaman" : 0.32000000000000001,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 57,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44211300000001,
+          0.56234200000000001
+        ]
+      },
+      "properties" : {
+        "FID" : 57,
+        "No" : 58,
+        "Titik" : 2,
+        "Lat" : 0.56234200000000001,
+        "Long" : 101.44211300000001,
+        "Nama_Jalan" : "jalan keli 1",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 107,
+        "Lebar__m_" : 0.44,
+        "Kedalaman" : 0.32000000000000001,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 58,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.442454,
+          0.56223999999999996
+        ]
+      },
+      "properties" : {
+        "FID" : 58,
+        "No" : 59,
+        "Titik" : 1,
+        "Lat" : 0.56223999999999996,
+        "Long" : 101.442454,
+        "Nama_Jalan" : "jalan keli 2",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 126,
+        "Lebar__m_" : 0.41999999999999998,
+        "Kedalaman" : 0.53000000000000003,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 59,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44217399999999,
+          0.56115499999999996
+        ]
+      },
+      "properties" : {
+        "FID" : 59,
+        "No" : 60,
+        "Titik" : 2,
+        "Lat" : 0.56115499999999996,
+        "Long" : 101.44217399999999,
+        "Nama_Jalan" : "jalan keli 2",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 126,
+        "Lebar__m_" : 0.41999999999999998,
+        "Kedalaman" : 0.53000000000000003,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 60,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44301900000001,
+          0.561921
+        ]
+      },
+      "properties" : {
+        "FID" : 60,
+        "No" : 61,
+        "Titik" : 1,
+        "Lat" : 0.561921,
+        "Long" : 101.44301900000001,
+        "Nama_Jalan" : "jalan keli 3",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 67,
+        "Lebar__m_" : 0.42999999999999999,
+        "Kedalaman" : 0.42999999999999999,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 61,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44242,
+          0.56202300000000005
+        ]
+      },
+      "properties" : {
+        "FID" : 61,
+        "No" : 62,
+        "Titik" : 2,
+        "Lat" : 0.56202300000000005,
+        "Long" : 101.44242,
+        "Nama_Jalan" : "jalan keli 3",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 67,
+        "Lebar__m_" : 0.42999999999999999,
+        "Kedalaman" : 0.42999999999999999,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 62,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.442972,
+          0.561666
+        ]
+      },
+      "properties" : {
+        "FID" : 62,
+        "No" : 63,
+        "Titik" : 1,
+        "Lat" : 0.561666,
+        "Long" : 101.442972,
+        "Nama_Jalan" : "jalan keli 4",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 68,
+        "Lebar__m_" : 0.40999999999999998,
+        "Kedalaman" : 0.57999999999999996,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 63,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44235399999999,
+          0.56176499999999996
+        ]
+      },
+      "properties" : {
+        "FID" : 63,
+        "No" : 64,
+        "Titik" : 2,
+        "Lat" : 0.56176499999999996,
+        "Long" : 101.44235399999999,
+        "Nama_Jalan" : "jalan keli 4",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 68,
+        "Lebar__m_" : 0.40999999999999998,
+        "Kedalaman" : 0.57999999999999996,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 64,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44361499999999,
+          0.56323999999999996
+        ]
+      },
+      "properties" : {
+        "FID" : 64,
+        "No" : 65,
+        "Titik" : 1,
+        "Lat" : 0.56323999999999996,
+        "Long" : 101.44361499999999,
+        "Nama_Jalan" : "jalan mas 1",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 147,
+        "Lebar__m_" : 0.41999999999999998,
+        "Kedalaman" : 0.57999999999999996,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 65,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.442306,
+          0.56341399999999997
+        ]
+      },
+      "properties" : {
+        "FID" : 65,
+        "No" : 66,
+        "Titik" : 2,
+        "Lat" : 0.56341399999999997,
+        "Long" : 101.442306,
+        "Nama_Jalan" : "jalan mas 1",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 147,
+        "Lebar__m_" : 0.41999999999999998,
+        "Kedalaman" : 0.57999999999999996,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 66,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.443251,
+          0.56301800000000002
+        ]
+      },
+      "properties" : {
+        "FID" : 66,
+        "No" : 67,
+        "Titik" : 1,
+        "Lat" : 0.56301800000000002,
+        "Long" : 101.443251,
+        "Nama_Jalan" : "jalan mas 2",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 79,
+        "Lebar__m_" : 0.47999999999999998,
+        "Kedalaman" : 0.55000000000000004,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 67,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.442531,
+          0.56311800000000001
+        ]
+      },
+      "properties" : {
+        "FID" : 67,
+        "No" : 68,
+        "Titik" : 2,
+        "Lat" : 0.56311800000000001,
+        "Long" : 101.442531,
+        "Nama_Jalan" : "jalan mas 2",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 79,
+        "Lebar__m_" : 0.47999999999999998,
+        "Kedalaman" : 0.55000000000000004,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 68,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.443213,
+          0.56276000000000004
+        ]
+      },
+      "properties" : {
+        "FID" : 68,
+        "No" : 69,
+        "Titik" : 1,
+        "Lat" : 0.56276000000000004,
+        "Long" : 101.443213,
+        "Nama_Jalan" : "jalan mas 3",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 80,
+        "Lebar__m_" : 0.46999999999999997,
+        "Kedalaman" : 0.37,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 69,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44250099999999,
+          0.56286999999999998
+        ]
+      },
+      "properties" : {
+        "FID" : 69,
+        "No" : 70,
+        "Titik" : 2,
+        "Lat" : 0.56286999999999998,
+        "Long" : 101.44250099999999,
+        "Nama_Jalan" : "jalan mas 3",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 80,
+        "Lebar__m_" : 0.46999999999999997,
+        "Kedalaman" : 0.37,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 70,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.442543,
+          0.563365
+        ]
+      },
+      "properties" : {
+        "FID" : 70,
+        "No" : 71,
+        "Titik" : 1,
+        "Lat" : 0.563365,
+        "Long" : 101.442543,
+        "Nama_Jalan" : "jalan mas 4",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 88,
+        "Lebar__m_" : 0.41999999999999998,
+        "Kedalaman" : 0.42999999999999999,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 71,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44243,
+          0.56259000000000003
+        ]
+      },
+      "properties" : {
+        "FID" : 71,
+        "No" : 72,
+        "Titik" : 2,
+        "Lat" : 0.56259000000000003,
+        "Long" : 101.44243,
+        "Nama_Jalan" : "jalan mas 4",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 88,
+        "Lebar__m_" : 0.41999999999999998,
+        "Kedalaman" : 0.42999999999999999,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 72,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.442728,
+          0.56449000000000005
+        ]
+      },
+      "properties" : {
+        "FID" : 72,
+        "No" : 73,
+        "Titik" : 1,
+        "Lat" : 0.56449000000000005,
+        "Long" : 101.442728,
+        "Nama_Jalan" : "jalan tawas 1",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 123,
+        "Lebar__m_" : 0.42999999999999999,
+        "Kedalaman" : 0.40999999999999998,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 73,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.442543,
+          0.56338699999999997
+        ]
+      },
+      "properties" : {
+        "FID" : 73,
+        "No" : 74,
+        "Titik" : 2,
+        "Lat" : 0.56338699999999997,
+        "Long" : 101.442543,
+        "Nama_Jalan" : "jalan tawas 1",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 123,
+        "Lebar__m_" : 0.42999999999999999,
+        "Kedalaman" : 0.40999999999999998,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 74,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.442689,
+          0.56418100000000004
+        ]
+      },
+      "properties" : {
+        "FID" : 74,
+        "No" : 75,
+        "Titik" : 1,
+        "Lat" : 0.56418100000000004,
+        "Long" : 101.442689,
+        "Nama_Jalan" : "jalan tawas 2",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 83,
+        "Lebar__m_" : 0.46000000000000002,
+        "Kedalaman" : 0.46000000000000002,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 75,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.443437,
+          0.56406500000000004
+        ]
+      },
+      "properties" : {
+        "FID" : 75,
+        "No" : 76,
+        "Titik" : 2,
+        "Lat" : 0.56406500000000004,
+        "Long" : 101.443437,
+        "Nama_Jalan" : "jalan tawas 2",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 83,
+        "Lebar__m_" : 0.46000000000000002,
+        "Kedalaman" : 0.46000000000000002,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 76,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.442651,
+          0.56392100000000001
+        ]
+      },
+      "properties" : {
+        "FID" : 76,
+        "No" : 77,
+        "Titik" : 1,
+        "Lat" : 0.56392100000000001,
+        "Long" : 101.442651,
+        "Nama_Jalan" : "jalan tawas 3",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 83,
+        "Lebar__m_" : 0.33000000000000002,
+        "Kedalaman" : 0.23000000000000001,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 77,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.443403,
+          0.56380600000000003
+        ]
+      },
+      "properties" : {
+        "FID" : 77,
+        "No" : 78,
+        "Titik" : 2,
+        "Lat" : 0.56380600000000003,
+        "Long" : 101.443403,
+        "Nama_Jalan" : "jalan tawas 3",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 83,
+        "Lebar__m_" : 0.33000000000000002,
+        "Kedalaman" : 0.23000000000000001,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 78,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44261400000001,
+          0.56364499999999995
+        ]
+      },
+      "properties" : {
+        "FID" : 78,
+        "No" : 79,
+        "Titik" : 1,
+        "Lat" : 0.56364499999999995,
+        "Long" : 101.44261400000001,
+        "Nama_Jalan" : "jalan tawas 4",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 84,
+        "Lebar__m_" : 0.56000000000000005,
+        "Kedalaman" : 0.33000000000000002,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 79,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44336,
+          0.56353299999999995
+        ]
+      },
+      "properties" : {
+        "FID" : 79,
+        "No" : 80,
+        "Titik" : 2,
+        "Lat" : 0.56353299999999995,
+        "Long" : 101.44336,
+        "Nama_Jalan" : "jalan tawas 4",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 84,
+        "Lebar__m_" : 0.56000000000000005,
+        "Kedalaman" : 0.33000000000000002,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 80,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.444041,
+          0.56362999999999996
+        ]
+      },
+      "properties" : {
+        "FID" : 80,
+        "No" : 81,
+        "Titik" : 1,
+        "Lat" : 0.56362999999999996,
+        "Long" : 101.444041,
+        "Nama_Jalan" : "jalan belanak 1",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 50,
+        "Lebar__m_" : 0.42999999999999999,
+        "Kedalaman" : 0.45000000000000001,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 81,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.444225,
+          0.56361700000000003
+        ]
+      },
+      "properties" : {
+        "FID" : 81,
+        "No" : 82,
+        "Titik" : 2,
+        "Lat" : 0.56361700000000003,
+        "Long" : 101.444225,
+        "Nama_Jalan" : "jalan belanak 1",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 50,
+        "Lebar__m_" : 0.42999999999999999,
+        "Kedalaman" : 0.45000000000000001,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 82,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.444484,
+          0.56371599999999999
+        ]
+      },
+      "properties" : {
+        "FID" : 82,
+        "No" : 83,
+        "Titik" : 3,
+        "Lat" : 0.56371599999999999,
+        "Long" : 101.444484,
+        "Nama_Jalan" : "jalan belanak 1",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 50,
+        "Lebar__m_" : 0.42999999999999999,
+        "Kedalaman" : 0.45000000000000001,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 83,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44368900000001,
+          0.56343699999999997
+        ]
+      },
+      "properties" : {
+        "FID" : 83,
+        "No" : 84,
+        "Titik" : 1,
+        "Lat" : 0.56343699999999997,
+        "Long" : 101.44368900000001,
+        "Nama_Jalan" : "jalan belanak 3",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 95,
+        "Lebar__m_" : 0.56000000000000005,
+        "Kedalaman" : 0.46000000000000002,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 84,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.443991,
+          0.563388
+        ]
+      },
+      "properties" : {
+        "FID" : 84,
+        "No" : 85,
+        "Titik" : 2,
+        "Lat" : 0.563388,
+        "Long" : 101.443991,
+        "Nama_Jalan" : "jalan belanak 3",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 95,
+        "Lebar__m_" : 0.56000000000000005,
+        "Kedalaman" : 0.46000000000000002,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 85,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.444193,
+          0.56334300000000004
+        ]
+      },
+      "properties" : {
+        "FID" : 85,
+        "No" : 86,
+        "Titik" : 3,
+        "Lat" : 0.56334300000000004,
+        "Long" : 101.444193,
+        "Nama_Jalan" : "jalan belanak 3",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 95,
+        "Lebar__m_" : 0.56000000000000005,
+        "Kedalaman" : 0.46000000000000002,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 86,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44452099999999,
+          0.56346099999999999
+        ]
+      },
+      "properties" : {
+        "FID" : 86,
+        "No" : 87,
+        "Titik" : 4,
+        "Lat" : 0.56346099999999999,
+        "Long" : 101.44452099999999,
+        "Nama_Jalan" : "jalan belanak 3",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 95,
+        "Lebar__m_" : 0.56000000000000005,
+        "Kedalaman" : 0.46000000000000002,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 87,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44394,
+          0.56310099999999996
+        ]
+      },
+      "properties" : {
+        "FID" : 87,
+        "No" : 88,
+        "Titik" : 1,
+        "Lat" : 0.56310099999999996,
+        "Long" : 101.44394,
+        "Nama_Jalan" : "jalan belanak 4",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 77,
+        "Lebar__m_" : 0.47999999999999998,
+        "Kedalaman" : 0.25,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 88,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.444255,
+          0.56304799999999999
+        ]
+      },
+      "properties" : {
+        "FID" : 88,
+        "No" : 89,
+        "Titik" : 2,
+        "Lat" : 0.56304799999999999,
+        "Long" : 101.444255,
+        "Nama_Jalan" : "jalan belanak 4",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 77,
+        "Lebar__m_" : 0.47999999999999998,
+        "Kedalaman" : 0.25,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 89,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.444607,
+          0.56317799999999996
+        ]
+      },
+      "properties" : {
+        "FID" : 89,
+        "No" : 90,
+        "Titik" : 3,
+        "Lat" : 0.56317799999999996,
+        "Long" : 101.444607,
+        "Nama_Jalan" : "jalan belanak 4",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 77,
+        "Lebar__m_" : 0.47999999999999998,
+        "Kedalaman" : 0.25,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 90,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44391400000001,
+          0.56285700000000005
+        ]
+      },
+      "properties" : {
+        "FID" : 90,
+        "No" : 91,
+        "Titik" : 1,
+        "Lat" : 0.56285700000000005,
+        "Long" : 101.44391400000001,
+        "Nama_Jalan" : "jalan belanak 5",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 95,
+        "Lebar__m_" : 0.28000000000000003,
+        "Kedalaman" : 0.25,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 91,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.444334,
+          0.56279599999999996
+        ]
+      },
+      "properties" : {
+        "FID" : 91,
+        "No" : 92,
+        "Titik" : 2,
+        "Lat" : 0.56279599999999996,
+        "Long" : 101.444334,
+        "Nama_Jalan" : "jalan belanak 5",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 95,
+        "Lebar__m_" : 0.28000000000000003,
+        "Kedalaman" : 0.25,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 92,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.444738,
+          0.56295899999999999
+        ]
+      },
+      "properties" : {
+        "FID" : 92,
+        "No" : 93,
+        "Titik" : 3,
+        "Lat" : 0.56295899999999999,
+        "Long" : 101.444738,
+        "Nama_Jalan" : "jalan belanak 5",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 95,
+        "Lebar__m_" : 0.28000000000000003,
+        "Kedalaman" : 0.25,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 93,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44387399999999,
+          0.56259099999999995
+        ]
+      },
+      "properties" : {
+        "FID" : 93,
+        "No" : 94,
+        "Titik" : 1,
+        "Lat" : 0.56259099999999995,
+        "Long" : 101.44387399999999,
+        "Nama_Jalan" : "jalan belanak 6",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 108,
+        "Lebar__m_" : 0.34000000000000002,
+        "Kedalaman" : 0.57999999999999996,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 94,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.444346,
+          0.56252899999999995
+        ]
+      },
+      "properties" : {
+        "FID" : 94,
+        "No" : 95,
+        "Titik" : 2,
+        "Lat" : 0.56252899999999995,
+        "Long" : 101.444346,
+        "Nama_Jalan" : "jalan belanak 6",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 108,
+        "Lebar__m_" : 0.34000000000000002,
+        "Kedalaman" : 0.57999999999999996,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 95,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.444802,
+          0.56272299999999997
+        ]
+      },
+      "properties" : {
+        "FID" : 95,
+        "No" : 96,
+        "Titik" : 3,
+        "Lat" : 0.56272299999999997,
+        "Long" : 101.444802,
+        "Nama_Jalan" : "jalan belanak 6",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 108,
+        "Lebar__m_" : 0.34000000000000002,
+        "Kedalaman" : 0.57999999999999996,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 96,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44072799999999,
+          0.56560500000000002
+        ]
+      },
+      "properties" : {
+        "FID" : 96,
+        "No" : 97,
+        "Titik" : 1,
+        "Lat" : 0.56560500000000002,
+        "Long" : 101.44072799999999,
+        "Nama_Jalan" : "jalan udang 1",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 120,
+        "Lebar__m_" : 0.46999999999999997,
+        "Kedalaman" : 0.40000000000000002,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 97,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.441802,
+          0.56542499999999996
+        ]
+      },
+      "properties" : {
+        "FID" : 97,
+        "No" : 98,
+        "Titik" : 2,
+        "Lat" : 0.56542499999999996,
+        "Long" : 101.441802,
+        "Nama_Jalan" : "jalan udang 1",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 120,
+        "Lebar__m_" : 0.46999999999999997,
+        "Kedalaman" : 0.40000000000000002,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 98,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44076699999999,
+          0.56585600000000003
+        ]
+      },
+      "properties" : {
+        "FID" : 98,
+        "No" : 99,
+        "Titik" : 1,
+        "Lat" : 0.56585600000000003,
+        "Long" : 101.44076699999999,
+        "Nama_Jalan" : "jalan udang 2",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 120,
+        "Lebar__m_" : 0.54000000000000004,
+        "Kedalaman" : 0.55000000000000004,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 99,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.441834,
+          0.56566300000000003
+        ]
+      },
+      "properties" : {
+        "FID" : 99,
+        "No" : 100,
+        "Titik" : 2,
+        "Lat" : 0.56566300000000003,
+        "Long" : 101.441834,
+        "Nama_Jalan" : "jalan udang 2",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 120,
+        "Lebar__m_" : 0.54000000000000004,
+        "Kedalaman" : 0.55000000000000004,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 100,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.439778,
+          0.56630199999999997
+        ]
+      },
+      "properties" : {
+        "FID" : 100,
+        "No" : 101,
+        "Titik" : 1,
+        "Lat" : 0.56630199999999997,
+        "Long" : 101.439778,
+        "Nama_Jalan" : "jalan udang 3",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 238,
+        "Lebar__m_" : 0.5,
+        "Kedalaman" : 0.41999999999999998,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 101,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.441412,
+          0.56599900000000003
+        ]
+      },
+      "properties" : {
+        "FID" : 101,
+        "No" : 102,
+        "Titik" : 2,
+        "Lat" : 0.56599900000000003,
+        "Long" : 101.441412,
+        "Nama_Jalan" : "jalan udang 3",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 238,
+        "Lebar__m_" : 0.5,
+        "Kedalaman" : 0.41999999999999998,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 102,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.441863,
+          0.56584500000000004
+        ]
+      },
+      "properties" : {
+        "FID" : 102,
+        "No" : 103,
+        "Titik" : 3,
+        "Lat" : 0.56584500000000004,
+        "Long" : 101.441863,
+        "Nama_Jalan" : "jalan udang 3",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 238,
+        "Lebar__m_" : 0.5,
+        "Kedalaman" : 0.41999999999999998,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 103,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44081199999999,
+          0.56610899999999997
+        ]
+      },
+      "properties" : {
+        "FID" : 103,
+        "No" : 104,
+        "Titik" : 1,
+        "Lat" : 0.56610899999999997,
+        "Long" : 101.44081199999999,
+        "Nama_Jalan" : "jalan udang 4",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 88,
+        "Lebar__m_" : 0.39000000000000001,
+        "Kedalaman" : 0.46000000000000002,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 104,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.440669,
+          0.56532400000000005
+        ]
+      },
+      "properties" : {
+        "FID" : 104,
+        "No" : 105,
+        "Titik" : 2,
+        "Lat" : 0.56532400000000005,
+        "Long" : 101.440669,
+        "Nama_Jalan" : "jalan udang 4",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 88,
+        "Lebar__m_" : 0.39000000000000001,
+        "Kedalaman" : 0.46000000000000002,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 105,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44055,
+          0.56615000000000004
+        ]
+      },
+      "properties" : {
+        "FID" : 105,
+        "No" : 106,
+        "Titik" : 1,
+        "Lat" : 0.56615000000000004,
+        "Long" : 101.44055,
+        "Nama_Jalan" : "jalan udang 5",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 88,
+        "Lebar__m_" : 0.55000000000000004,
+        "Kedalaman" : 0.46000000000000002,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 106,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44041799999999,
+          0.56537999999999999
+        ]
+      },
+      "properties" : {
+        "FID" : 106,
+        "No" : 107,
+        "Titik" : 2,
+        "Lat" : 0.56537999999999999,
+        "Long" : 101.44041799999999,
+        "Nama_Jalan" : "jalan udang 5",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 88,
+        "Lebar__m_" : 0.55000000000000004,
+        "Kedalaman" : 0.46000000000000002,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 107,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44029399999999,
+          0.56619200000000003
+        ]
+      },
+      "properties" : {
+        "FID" : 107,
+        "No" : 108,
+        "Titik" : 1,
+        "Lat" : 0.56619200000000003,
+        "Long" : 101.44029399999999,
+        "Nama_Jalan" : "jalan udang 6",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 88,
+        "Lebar__m_" : 0.46999999999999997,
+        "Kedalaman" : 0.37,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 108,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.440152,
+          0.565419
+        ]
+      },
+      "properties" : {
+        "FID" : 108,
+        "No" : 109,
+        "Titik" : 2,
+        "Lat" : 0.565419,
+        "Long" : 101.440152,
+        "Nama_Jalan" : "jalan udang 6",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 88,
+        "Lebar__m_" : 0.46999999999999997,
+        "Kedalaman" : 0.37,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 109,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.440027,
+          0.56623400000000002
+        ]
+      },
+      "properties" : {
+        "FID" : 109,
+        "No" : 110,
+        "Titik" : 1,
+        "Lat" : 0.56623400000000002,
+        "Long" : 101.440027,
+        "Nama_Jalan" : "jalan udang 7",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 88,
+        "Lebar__m_" : 0.34000000000000002,
+        "Kedalaman" : 0.32000000000000001,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 110,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.43988899999999,
+          0.56545400000000001
+        ]
+      },
+      "properties" : {
+        "FID" : 110,
+        "No" : 111,
+        "Titik" : 2,
+        "Lat" : 0.56545400000000001,
+        "Long" : 101.43988899999999,
+        "Nama_Jalan" : "jalan udang 7",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 88,
+        "Lebar__m_" : 0.34000000000000002,
+        "Kedalaman" : 0.32000000000000001,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 111,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.440462,
+          0.56535199999999997
+        ]
+      },
+      "properties" : {
+        "FID" : 111,
+        "No" : 112,
+        "Titik" : 1,
+        "Lat" : 0.56535199999999997,
+        "Long" : 101.440462,
+        "Nama_Jalan" : "jalan sepat 1",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 79,
+        "Lebar__m_" : 0.52000000000000002,
+        "Kedalaman" : 0.46000000000000002,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 112,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.439753,
+          0.56546399999999997
+        ]
+      },
+      "properties" : {
+        "FID" : 112,
+        "No" : 113,
+        "Titik" : 2,
+        "Lat" : 0.56546399999999997,
+        "Long" : 101.439753,
+        "Nama_Jalan" : "jalan sepat 1",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 79,
+        "Lebar__m_" : 0.52000000000000002,
+        "Kedalaman" : 0.46000000000000002,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 113,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.440462,
+          0.56535199999999997
+        ]
+      },
+      "properties" : {
+        "FID" : 113,
+        "No" : 114,
+        "Titik" : 1,
+        "Lat" : 0.56535199999999997,
+        "Long" : 101.440462,
+        "Nama_Jalan" : "jalan sepat 2",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 82,
+        "Lebar__m_" : 0.48999999999999999,
+        "Kedalaman" : 0.40999999999999998,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 114,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.440431,
+          0.56516599999999995
+        ]
+      },
+      "properties" : {
+        "FID" : 114,
+        "No" : 115,
+        "Titik" : 2,
+        "Lat" : 0.56516599999999995,
+        "Long" : 101.440431,
+        "Nama_Jalan" : "jalan sepat 2",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 82,
+        "Lebar__m_" : 0.48999999999999999,
+        "Kedalaman" : 0.40999999999999998,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 115,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44034600000001,
+          0.56486800000000004
+        ]
+      },
+      "properties" : {
+        "FID" : 115,
+        "No" : 116,
+        "Titik" : 3,
+        "Lat" : 0.56486800000000004,
+        "Long" : 101.44034600000001,
+        "Nama_Jalan" : "jalan sepat 2",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 82,
+        "Lebar__m_" : 0.48999999999999999,
+        "Kedalaman" : 0.40999999999999998,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 116,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44028900000001,
+          0.56463600000000003
+        ]
+      },
+      "properties" : {
+        "FID" : 116,
+        "No" : 117,
+        "Titik" : 4,
+        "Lat" : 0.56463600000000003,
+        "Long" : 101.44028900000001,
+        "Nama_Jalan" : "jalan sepat 2",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 82,
+        "Lebar__m_" : 0.48999999999999999,
+        "Kedalaman" : 0.40999999999999998,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 117,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.440287,
+          0.56459199999999998
+        ]
+      },
+      "properties" : {
+        "FID" : 117,
+        "No" : 118,
+        "Titik" : 1,
+        "Lat" : 0.56459199999999998,
+        "Long" : 101.440287,
+        "Nama_Jalan" : "jalan sepat 5",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 87,
+        "Lebar__m_" : 0.39000000000000001,
+        "Kedalaman" : 0.46999999999999997,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 118,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.440164,
+          0.56381999999999999
+        ]
+      },
+      "properties" : {
+        "FID" : 118,
+        "No" : 119,
+        "Titik" : 2,
+        "Lat" : 0.56381999999999999,
+        "Long" : 101.440164,
+        "Nama_Jalan" : "jalan sepat 5",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 87,
+        "Lebar__m_" : 0.39000000000000001,
+        "Kedalaman" : 0.46999999999999997,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 119,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44063800000001,
+          0.56450999999999996
+        ]
+      },
+      "properties" : {
+        "FID" : 119,
+        "No" : 120,
+        "Titik" : 1,
+        "Lat" : 0.56450999999999996,
+        "Long" : 101.44063800000001,
+        "Nama_Jalan" : "jalan sepat besar",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 86,
+        "Lebar__m_" : 0.41999999999999998,
+        "Kedalaman" : 0.40000000000000002,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 120,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.439756,
+          0.56469400000000003
+        ]
+      },
+      "properties" : {
+        "FID" : 120,
+        "No" : 121,
+        "Titik" : 2,
+        "Lat" : 0.56469400000000003,
+        "Long" : 101.439756,
+        "Nama_Jalan" : "jalan sepat besar",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 86,
+        "Lebar__m_" : 0.41999999999999998,
+        "Kedalaman" : 0.40000000000000002,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 121,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.439187,
+          0.56466799999999995
+        ]
+      },
+      "properties" : {
+        "FID" : 121,
+        "No" : 122,
+        "Titik" : 3,
+        "Lat" : 0.56466799999999995,
+        "Long" : 101.439187,
+        "Nama_Jalan" : "jalan sepat besar",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 86,
+        "Lebar__m_" : 0.41999999999999998,
+        "Kedalaman" : 0.40000000000000002,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "type" : "FeatureCollection",
+  "crs" : {
+    "type" : "name",
+    "properties" : {
+      "name" : "EPSG:4326"
+    }
+  },
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44690199999999,
+          0.56298000000000004
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "No" : 1,
+        "Titik" : 1,
+        "Lat" : 0.56298000000000004,
+        "Long" : 101.44690199999999,
+        "Nama_Jalan" : "jalan. Perumahan",
+        "Nama_Perum" : "kompleks griya rumbai lestari",
+        "Panjang__m" : 73,
+        "Lebar__m_" : 0.23000000000000001,
+        "Kedalaman" : 0.45000000000000001,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44573200000001,
+          0.56263700000000005
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "No" : 2,
+        "Titik" : 2,
+        "Lat" : 0.56263700000000005,
+        "Long" : 101.44573200000001,
+        "Nama_Jalan" : "jalan. Perumahan",
+        "Nama_Perum" : "kompleks griya rumbai lestari",
+        "Panjang__m" : 60,
+        "Lebar__m_" : 0.58999999999999997,
+        "Kedalaman" : 0.46999999999999997,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.445806,
+          0.56207600000000002
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "No" : 3,
+        "Titik" : 3,
+        "Lat" : 0.56207600000000002,
+        "Long" : 101.445806,
+        "Nama_Jalan" : "jalan. Perumahan",
+        "Nama_Perum" : "kompleks griya rumbai lestari",
+        "Panjang__m" : 65,
+        "Lebar__m_" : 0.66000000000000003,
+        "Kedalaman" : 0.44,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44632300000001,
+          0.56208599999999997
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "No" : 4,
+        "Titik" : 4,
+        "Lat" : 0.56208599999999997,
+        "Long" : 101.44632300000001,
+        "Nama_Jalan" : "jalan. Perumahan",
+        "Nama_Perum" : "kompleks griya rumbai lestari",
+        "Panjang__m" : 54,
+        "Lebar__m_" : 0.28000000000000003,
+        "Kedalaman" : 0.5,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.446946,
+          0.56230199999999997
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "No" : 5,
+        "Titik" : 5,
+        "Lat" : 0.56230199999999997,
+        "Long" : 101.446946,
+        "Nama_Jalan" : "jalan. Perumahan",
+        "Nama_Perum" : "kompleks griya rumbai lestari",
+        "Panjang__m" : 57,
+        "Lebar__m_" : 0.32000000000000001,
+        "Kedalaman" : 0.42999999999999999,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.446932,
+          0.56264599999999998
+        ]
+      },
+      "properties" : {
+        "FID" : 5,
+        "No" : 6,
+        "Titik" : 6,
+        "Lat" : 0.56264599999999998,
+        "Long" : 101.446932,
+        "Nama_Jalan" : "jalan. Perumahan",
+        "Nama_Perum" : "kompleks griya rumbai lestari",
+        "Panjang__m" : 62,
+        "Lebar__m_" : 0.45000000000000001,
+        "Kedalaman" : 0.44,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    }
+  ]
+}

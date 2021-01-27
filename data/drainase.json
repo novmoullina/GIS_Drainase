@@ -1,0 +1,3003 @@
+{
+    "type": "FeatureCollection",
+    "name": "perum_limbunganbaru",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [{
+            "type": "Feature",
+            "properties": {
+                "No": 1.0,
+                "Titik": 1.0,
+                "Lat": 0.564301,
+                "Long": 101.437582,
+                "Nama_Jalan": "jl. Bukit Betabuh",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 184.0,
+                "Lebar__m_": 0.11,
+                "Kedalaman": 0.17,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "kering",
+                "Akhir_Pemb": "kering"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.437582, 0.564301]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 2.0,
+                "Titik": 2.0,
+                "Lat": 0.56432,
+                "Long": 101.437917,
+                "Nama_Jalan": "jl. Bukit Betabuh",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 184.0,
+                "Lebar__m_": 0.11,
+                "Kedalaman": 0.17,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "kering",
+                "Akhir_Pemb": "kering"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.437917, 0.56432]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 3.0,
+                "Titik": 3.0,
+                "Lat": 0.564343,
+                "Long": 101.438261,
+                "Nama_Jalan": "jl. Bukit Betabuh",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 184.0,
+                "Lebar__m_": 0.11,
+                "Kedalaman": 0.17,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "kering",
+                "Akhir_Pemb": "kering"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.438261, 0.564343]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 4.0,
+                "Titik": 4.0,
+                "Lat": 0.564442,
+                "Long": 101.439236,
+                "Nama_Jalan": "jl. Bukit Betabuh",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 184.0,
+                "Lebar__m_": 0.11,
+                "Kedalaman": 0.17,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "kering",
+                "Akhir_Pemb": "kering"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.439236, 0.564442]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 5.0,
+                "Titik": 1.0,
+                "Lat": 0.564161,
+                "Long": 101.433249,
+                "Nama_Jalan": "Jalan. Semarang",
+                "Nama_Perum": "Perum Green House",
+                "Panjang__m": 315.0,
+                "Lebar__m_": 1.0,
+                "Kedalaman": 0.64,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "kering",
+                "Akhir_Pemb": "kering"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.433249, 0.564161]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 6.0,
+                "Titik": 2.0,
+                "Lat": 0.564143,
+                "Long": 101.434594,
+                "Nama_Jalan": "Jalan. Semarang",
+                "Nama_Perum": "Perum Green House",
+                "Panjang__m": 315.0,
+                "Lebar__m_": 1.0,
+                "Kedalaman": 0.64,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "kering",
+                "Akhir_Pemb": "kering"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.434594, 0.564143]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 7.0,
+                "Titik": 3.0,
+                "Lat": 0.564086,
+                "Long": 101.433657,
+                "Nama_Jalan": "Jalan. Semarang",
+                "Nama_Perum": "Perum Green House",
+                "Panjang__m": 315.0,
+                "Lebar__m_": 1.0,
+                "Kedalaman": 0.64,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "kering",
+                "Akhir_Pemb": "kering"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.433657, 0.564086]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 8.0,
+                "Titik": 4.0,
+                "Lat": 0.564164,
+                "Long": 101.43459,
+                "Nama_Jalan": "Jalan. Semarang",
+                "Nama_Perum": "Perum Green House",
+                "Panjang__m": 315.0,
+                "Lebar__m_": 1.0,
+                "Kedalaman": 0.64,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "kering",
+                "Akhir_Pemb": "kering"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.43459, 0.564164]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 9.0,
+                "Titik": 1.0,
+                "Lat": 0.563872,
+                "Long": 101.439406,
+                "Nama_Jalan": "jalan gabus 1",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 125.0,
+                "Lebar__m_": 0.46,
+                "Kedalaman": 0.54,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.439406, 0.563872]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 10.0,
+                "Titik": 2.0,
+                "Lat": 0.563854,
+                "Long": 101.43989,
+                "Nama_Jalan": "jalan gabus 1",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 125.0,
+                "Lebar__m_": 0.46,
+                "Kedalaman": 0.54,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.43989, 0.563854]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 11.0,
+                "Titik": 3.0,
+                "Lat": 0.563753,
+                "Long": 101.440512,
+                "Nama_Jalan": "jalan gabus 1",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 125.0,
+                "Lebar__m_": 0.46,
+                "Kedalaman": 0.54,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kiri",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.440512, 0.563753]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 12.0,
+                "Titik": 1.0,
+                "Lat": 0.563621,
+                "Long": 101.439647,
+                "Nama_Jalan": "jalan gabus 2",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 49.0,
+                "Lebar__m_": 0.41,
+                "Kedalaman": 0.51,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kiri",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.439647, 0.563621]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 13.0,
+                "Titik": 2.0,
+                "Lat": 0.563547,
+                "Long": 101.4401,
+                "Nama_Jalan": "jalan gabus 2",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 49.0,
+                "Lebar__m_": 0.41,
+                "Kedalaman": 0.51,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kiri",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.4401, 0.563547]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 14.0,
+                "Titik": 1.0,
+                "Lat": 0.563293,
+                "Long": 101.440065,
+                "Nama_Jalan": "jalan gabus 3",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 43.0,
+                "Lebar__m_": 0.31,
+                "Kedalaman": 0.46,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kiri",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.440065, 0.563293]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 15.0,
+                "Titik": 2.0,
+                "Lat": 0.563354,
+                "Long": 101.439682,
+                "Nama_Jalan": "jalan gabus 3",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 43.0,
+                "Lebar__m_": 0.31,
+                "Kedalaman": 0.46,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kiri",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.439682, 0.563354]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 16.0,
+                "Titik": 1.0,
+                "Lat": 0.563148,
+                "Long": 101.440058,
+                "Nama_Jalan": "jalan gabus 4",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 48.0,
+                "Lebar__m_": 0.31,
+                "Kedalaman": 0.54,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kiri",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.440058, 0.563148]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 17.0,
+                "Titik": 2.0,
+                "Lat": 0.563097,
+                "Long": 101.439915,
+                "Nama_Jalan": "jalan gabus 4",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 48.0,
+                "Lebar__m_": 0.31,
+                "Kedalaman": 0.54,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.439915, 0.563097]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 18.0,
+                "Titik": 3.0,
+                "Lat": 0.563108,
+                "Long": 101.439646,
+                "Nama_Jalan": "jalan gabus 4",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 53.0,
+                "Lebar__m_": 0.64,
+                "Kedalaman": 0.57,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.439646, 0.563108]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 19.0,
+                "Titik": 1.0,
+                "Lat": 0.562893,
+                "Long": 101.44014,
+                "Nama_Jalan": "jalan gabus 5",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 55.0,
+                "Lebar__m_": 0.35,
+                "Kedalaman": 0.59,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.44014, 0.562893]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 20.0,
+                "Titik": 2.0,
+                "Lat": 0.562829,
+                "Long": 101.439966,
+                "Nama_Jalan": "jalan gabus 5",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 55.0,
+                "Lebar__m_": 0.35,
+                "Kedalaman": 0.59,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.439966, 0.562829]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 21.0,
+                "Titik": 3.0,
+                "Lat": 0.562843,
+                "Long": 101.439654,
+                "Nama_Jalan": "jalan gabus 5",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 55.0,
+                "Lebar__m_": 0.35,
+                "Kedalaman": 0.59,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.439654, 0.562843]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 22.0,
+                "Titik": 1.0,
+                "Lat": 0.56266,
+                "Long": 101.440235,
+                "Nama_Jalan": "jalan gabus 6",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 70.0,
+                "Lebar__m_": 0.47,
+                "Kedalaman": 0.37,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.440235, 0.56266]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 23.0,
+                "Titik": 2.0,
+                "Lat": 0.562575,
+                "Long": 101.440027,
+                "Nama_Jalan": "jalan gabus 6",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 70.0,
+                "Lebar__m_": 0.47,
+                "Kedalaman": 0.37,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.440027, 0.562575]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 24.0,
+                "Titik": 3.0,
+                "Lat": 0.562582,
+                "Long": 101.439622,
+                "Nama_Jalan": "jalan gabus 6",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 70.0,
+                "Lebar__m_": 0.47,
+                "Kedalaman": 0.37,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.439622, 0.562582]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 25.0,
+                "Titik": 1.0,
+                "Lat": 0.562397,
+                "Long": 101.440337,
+                "Nama_Jalan": "jalan gabus 7",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 82.0,
+                "Lebar__m_": 0.6,
+                "Kedalaman": 0.31,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.440337, 0.562397]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 26.0,
+                "Titik": 2.0,
+                "Lat": 0.562286,
+                "Long": 101.44006,
+                "Nama_Jalan": "jalan gabus 7",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 82.0,
+                "Lebar__m_": 0.6,
+                "Kedalaman": 0.31,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.44006, 0.562286]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 27.0,
+                "Titik": 3.0,
+                "Lat": 0.562307,
+                "Long": 101.439618,
+                "Nama_Jalan": "jalan gabus 7",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 82.0,
+                "Lebar__m_": 0.6,
+                "Kedalaman": 0.31,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.439618, 0.562307]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 28.0,
+                "Titik": 1.0,
+                "Lat": 0.563779,
+                "Long": 101.440159,
+                "Nama_Jalan": "jalan gabus 8",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 184.0,
+                "Lebar__m_": 0.52,
+                "Kedalaman": 0.5,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.440159, 0.563779]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 29.0,
+                "Titik": 2.0,
+                "Lat": 0.563154,
+                "Long": 101.44008,
+                "Nama_Jalan": "jalan gabus 8",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 184.0,
+                "Lebar__m_": 0.52,
+                "Kedalaman": 0.5,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.44008, 0.563154]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 30.0,
+                "Titik": 3.0,
+                "Lat": 0.562188,
+                "Long": 101.440448,
+                "Nama_Jalan": "jalan gabus 8",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 184.0,
+                "Lebar__m_": 0.52,
+                "Kedalaman": 0.5,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.440448, 0.562188]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 31.0,
+                "Titik": 1.0,
+                "Lat": 0.564429,
+                "Long": 101.443211,
+                "Nama_Jalan": "jalan baung induk",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 172.0,
+                "Lebar__m_": 0.63,
+                "Kedalaman": 0.45,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.443211, 0.564429]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 32.0,
+                "Titik": 2.0,
+                "Lat": 0.565963,
+                "Long": 101.443476,
+                "Nama_Jalan": "jalan baung induk",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 172.0,
+                "Lebar__m_": 0.63,
+                "Kedalaman": 0.45,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.443476, 0.565963]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 33.0,
+                "Titik": 1.0,
+                "Lat": 0.56501,
+                "Long": 101.443066,
+                "Nama_Jalan": "jalan baung 1",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 102.0,
+                "Lebar__m_": 0.58,
+                "Kedalaman": 0.53,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.443066, 0.56501]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 34.0,
+                "Titik": 2.0,
+                "Lat": 0.565921,
+                "Long": 101.443198,
+                "Nama_Jalan": "jalan baung 1",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 102.0,
+                "Lebar__m_": 0.58,
+                "Kedalaman": 0.53,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.443198, 0.565921]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 35.0,
+                "Titik": 1.0,
+                "Lat": 0.56504,
+                "Long": 101.442798,
+                "Nama_Jalan": "jalan baung 2",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 90.0,
+                "Lebar__m_": 0.59,
+                "Kedalaman": 0.54,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.442798, 0.56504]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 36.0,
+                "Titik": 2.0,
+                "Lat": 0.565858,
+                "Long": 101.442939,
+                "Nama_Jalan": "jalan baung 2",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 90.0,
+                "Lebar__m_": 0.59,
+                "Kedalaman": 0.54,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.442939, 0.565858]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 37.0,
+                "Titik": 1.0,
+                "Lat": 0.563532,
+                "Long": 101.440855,
+                "Nama_Jalan": "jalan mujair 1",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 147.0,
+                "Lebar__m_": 0.42,
+                "Kedalaman": 0.6,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.440855, 0.563532]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 38.0,
+                "Titik": 2.0,
+                "Lat": 0.564836,
+                "Long": 101.441082,
+                "Nama_Jalan": "jalan mujair 1",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 147.0,
+                "Lebar__m_": 0.42,
+                "Kedalaman": 0.6,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.441082, 0.564836]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 39.0,
+                "Titik": 1.0,
+                "Lat": 0.563588,
+                "Long": 101.442255,
+                "Nama_Jalan": "jalan mujair 2",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 150.0,
+                "Lebar__m_": 0.47,
+                "Kedalaman": 0.58,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.442255, 0.563588]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 40.0,
+                "Titik": 2.0,
+                "Lat": 0.563796,
+                "Long": 101.440928,
+                "Nama_Jalan": "jalan mujair 2",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 150.0,
+                "Lebar__m_": 0.47,
+                "Kedalaman": 0.58,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.440928, 0.563796]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 41.0,
+                "Titik": 1.0,
+                "Lat": 0.563793,
+                "Long": 101.441157,
+                "Nama_Jalan": "jalan mujair 3",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 112.0,
+                "Lebar__m_": 0.4,
+                "Kedalaman": 0.29,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.441157, 0.563793]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 42.0,
+                "Titik": 2.0,
+                "Lat": 0.564784,
+                "Long": 101.441316,
+                "Nama_Jalan": "jalan mujair 3",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 112.0,
+                "Lebar__m_": 0.4,
+                "Kedalaman": 0.29,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.441316, 0.564784]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 43.0,
+                "Titik": 1.0,
+                "Lat": 0.563747,
+                "Long": 101.441413,
+                "Nama_Jalan": "jalan mujair 4",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 112.0,
+                "Lebar__m_": 0.6,
+                "Kedalaman": 0.49,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.441413, 0.563747]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 44.0,
+                "Titik": 2.0,
+                "Lat": 0.56474,
+                "Long": 101.441575,
+                "Nama_Jalan": "jalan mujair 4",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 112.0,
+                "Lebar__m_": 0.6,
+                "Kedalaman": 0.49,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.441575, 0.56474]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 45.0,
+                "Titik": 1.0,
+                "Lat": 0.563713,
+                "Long": 101.441674,
+                "Nama_Jalan": "jalan mujair 5",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 113.0,
+                "Lebar__m_": 0.56,
+                "Kedalaman": 0.55,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.441674, 0.563713]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 46.0,
+                "Titik": 2.0,
+                "Lat": 0.564702,
+                "Long": 101.441852,
+                "Nama_Jalan": "jalan mujair 5",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 113.0,
+                "Lebar__m_": 0.56,
+                "Kedalaman": 0.55,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.441852, 0.564702]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 47.0,
+                "Titik": 1.0,
+                "Lat": 0.564664,
+                "Long": 101.442102,
+                "Nama_Jalan": "jalan mujair 6",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 114.0,
+                "Lebar__m_": 0.57,
+                "Kedalaman": 0.4,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.442102, 0.564664]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 48.0,
+                "Titik": 2.0,
+                "Lat": 0.563657,
+                "Long": 101.441937,
+                "Nama_Jalan": "jalan mujair 6",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 114.0,
+                "Lebar__m_": 0.57,
+                "Kedalaman": 0.4,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.441937, 0.563657]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 49.0,
+                "Titik": 1.0,
+                "Lat": 0.564638,
+                "Long": 101.442414,
+                "Nama_Jalan": "jalan mujair 7",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 189.0,
+                "Lebar__m_": 0.55,
+                "Kedalaman": 0.52,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.442414, 0.564638]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 50.0,
+                "Titik": 2.0,
+                "Lat": 0.564914,
+                "Long": 101.440749,
+                "Nama_Jalan": "jalan mujair 7",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 189.0,
+                "Lebar__m_": 0.55,
+                "Kedalaman": 0.52,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.440749, 0.564914]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 51.0,
+                "Titik": 3.0,
+                "Lat": 0.563336,
+                "Long": 101.44186,
+                "Nama_Jalan": "jalan gurami 1",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 138.0,
+                "Lebar__m_": 0.42,
+                "Kedalaman": 0.58,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.44186, 0.563336]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 52.0,
+                "Titik": 2.0,
+                "Lat": 0.56212,
+                "Long": 101.441677,
+                "Nama_Jalan": "jalan gurami 1",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 138.0,
+                "Lebar__m_": 0.42,
+                "Kedalaman": 0.58,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.441677, 0.56212]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 53.0,
+                "Titik": 1.0,
+                "Lat": 0.562008,
+                "Long": 101.441965,
+                "Nama_Jalan": "jalan gurami 2",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 132.0,
+                "Lebar__m_": 0.52,
+                "Kedalaman": 0.37,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.441965, 0.562008]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 54.0,
+                "Titik": 2.0,
+                "Lat": 0.56229,
+                "Long": 101.440808,
+                "Nama_Jalan": "jalan gurami 2",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 132.0,
+                "Lebar__m_": 0.52,
+                "Kedalaman": 0.37,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.440808, 0.56229]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 55.0,
+                "Titik": 1.0,
+                "Lat": 0.562063,
+                "Long": 101.441654,
+                "Nama_Jalan": "jalan gurami 3",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 74.0,
+                "Lebar__m_": 0.52,
+                "Kedalaman": 0.4,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.441654, 0.562063]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 56.0,
+                "Titik": 2.0,
+                "Lat": 0.561416,
+                "Long": 101.441505,
+                "Nama_Jalan": "jalan gurami 3",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 74.0,
+                "Lebar__m_": 0.52,
+                "Kedalaman": 0.4,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.441505, 0.561416]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 57.0,
+                "Titik": 1.0,
+                "Lat": 0.562103,
+                "Long": 101.4414,
+                "Nama_Jalan": "jalan gurami 4",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 51.0,
+                "Lebar__m_": 0.4,
+                "Kedalaman": 0.37,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.4414, 0.562103]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 58.0,
+                "Titik": 2.0,
+                "Lat": 0.561679,
+                "Long": 101.441285,
+                "Nama_Jalan": "jalan gurami 4",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 51.0,
+                "Lebar__m_": 0.4,
+                "Kedalaman": 0.37,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.441285, 0.561679]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 59.0,
+                "Titik": 1.0,
+                "Lat": 0.562189,
+                "Long": 101.441142,
+                "Nama_Jalan": "jalan gurami 5",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 52.0,
+                "Lebar__m_": 0.37,
+                "Kedalaman": 0.32,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.441142, 0.562189]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 60.0,
+                "Titik": 2.0,
+                "Lat": 0.561738,
+                "Long": 101.441034,
+                "Nama_Jalan": "jalan gurami 5",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 52.0,
+                "Lebar__m_": 0.37,
+                "Kedalaman": 0.32,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.441034, 0.561738]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 61.0,
+                "Titik": 1.0,
+                "Lat": 0.562185,
+                "Long": 101.443048,
+                "Nama_Jalan": "jalan keli 1",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 107.0,
+                "Lebar__m_": 0.44,
+                "Kedalaman": 0.32,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.443048, 0.562185]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 62.0,
+                "Titik": 2.0,
+                "Lat": 0.562342,
+                "Long": 101.442113,
+                "Nama_Jalan": "jalan keli 1",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 107.0,
+                "Lebar__m_": 0.44,
+                "Kedalaman": 0.32,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.442113, 0.562342]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 63.0,
+                "Titik": 1.0,
+                "Lat": 0.56224,
+                "Long": 101.442454,
+                "Nama_Jalan": "jalan keli 2",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 126.0,
+                "Lebar__m_": 0.42,
+                "Kedalaman": 0.53,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.442454, 0.56224]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 64.0,
+                "Titik": 2.0,
+                "Lat": 0.561155,
+                "Long": 101.442174,
+                "Nama_Jalan": "jalan keli 2",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 126.0,
+                "Lebar__m_": 0.42,
+                "Kedalaman": 0.53,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.442174, 0.561155]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 65.0,
+                "Titik": 1.0,
+                "Lat": 0.561921,
+                "Long": 101.443019,
+                "Nama_Jalan": "jalan keli 3",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 67.0,
+                "Lebar__m_": 0.43,
+                "Kedalaman": 0.43,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.443019, 0.561921]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 66.0,
+                "Titik": 2.0,
+                "Lat": 0.562023,
+                "Long": 101.44242,
+                "Nama_Jalan": "jalan keli 3",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 67.0,
+                "Lebar__m_": 0.43,
+                "Kedalaman": 0.43,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.44242, 0.562023]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 67.0,
+                "Titik": 1.0,
+                "Lat": 0.561666,
+                "Long": 101.442972,
+                "Nama_Jalan": "jalan keli 4",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 68.0,
+                "Lebar__m_": 0.41,
+                "Kedalaman": 0.58,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.442972, 0.561666]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 68.0,
+                "Titik": 2.0,
+                "Lat": 0.561765,
+                "Long": 101.442354,
+                "Nama_Jalan": "jalan keli 4",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 68.0,
+                "Lebar__m_": 0.41,
+                "Kedalaman": 0.58,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.442354, 0.561765]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 69.0,
+                "Titik": 1.0,
+                "Lat": 0.56324,
+                "Long": 101.443615,
+                "Nama_Jalan": "jalan mas 1",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 147.0,
+                "Lebar__m_": 0.42,
+                "Kedalaman": 0.58,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.443615, 0.56324]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 70.0,
+                "Titik": 2.0,
+                "Lat": 0.563414,
+                "Long": 101.442306,
+                "Nama_Jalan": "jalan mas 1",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 147.0,
+                "Lebar__m_": 0.42,
+                "Kedalaman": 0.58,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.442306, 0.563414]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 71.0,
+                "Titik": 1.0,
+                "Lat": 0.563018,
+                "Long": 101.443251,
+                "Nama_Jalan": "jalan mas 2",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 79.0,
+                "Lebar__m_": 0.48,
+                "Kedalaman": 0.55,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.443251, 0.563018]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 72.0,
+                "Titik": 2.0,
+                "Lat": 0.563118,
+                "Long": 101.442531,
+                "Nama_Jalan": "jalan mas 2",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 79.0,
+                "Lebar__m_": 0.48,
+                "Kedalaman": 0.55,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.442531, 0.563118]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 73.0,
+                "Titik": 1.0,
+                "Lat": 0.56276,
+                "Long": 101.443213,
+                "Nama_Jalan": "jalan mas 3",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 80.0,
+                "Lebar__m_": 0.47,
+                "Kedalaman": 0.37,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.443213, 0.56276]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 74.0,
+                "Titik": 2.0,
+                "Lat": 0.56287,
+                "Long": 101.442501,
+                "Nama_Jalan": "jalan mas 3",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 80.0,
+                "Lebar__m_": 0.47,
+                "Kedalaman": 0.37,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.442501, 0.56287]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 75.0,
+                "Titik": 1.0,
+                "Lat": 0.563365,
+                "Long": 101.442543,
+                "Nama_Jalan": "jalan mas 4",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 88.0,
+                "Lebar__m_": 0.42,
+                "Kedalaman": 0.43,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.442543, 0.563365]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 76.0,
+                "Titik": 2.0,
+                "Lat": 0.56259,
+                "Long": 101.44243,
+                "Nama_Jalan": "jalan mas 4",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 88.0,
+                "Lebar__m_": 0.42,
+                "Kedalaman": 0.43,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.44243, 0.56259]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 77.0,
+                "Titik": 1.0,
+                "Lat": 0.56449,
+                "Long": 101.442728,
+                "Nama_Jalan": "jalan tawas 1",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 123.0,
+                "Lebar__m_": 0.43,
+                "Kedalaman": 0.41,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.442728, 0.56449]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 78.0,
+                "Titik": 2.0,
+                "Lat": 0.563387,
+                "Long": 101.442543,
+                "Nama_Jalan": "jalan tawas 1",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 123.0,
+                "Lebar__m_": 0.43,
+                "Kedalaman": 0.41,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.442543, 0.563387]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 79.0,
+                "Titik": 1.0,
+                "Lat": 0.564181,
+                "Long": 101.442689,
+                "Nama_Jalan": "jalan tawas 2",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 83.0,
+                "Lebar__m_": 0.46,
+                "Kedalaman": 0.46,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.442689, 0.564181]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 80.0,
+                "Titik": 2.0,
+                "Lat": 0.564065,
+                "Long": 101.443437,
+                "Nama_Jalan": "jalan tawas 2",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 83.0,
+                "Lebar__m_": 0.46,
+                "Kedalaman": 0.46,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.443437, 0.564065]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 81.0,
+                "Titik": 1.0,
+                "Lat": 0.563921,
+                "Long": 101.442651,
+                "Nama_Jalan": "jalan tawas 3",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 83.0,
+                "Lebar__m_": 0.33,
+                "Kedalaman": 0.23,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.442651, 0.563921]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 82.0,
+                "Titik": 2.0,
+                "Lat": 0.563806,
+                "Long": 101.443403,
+                "Nama_Jalan": "jalan tawas 3",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 83.0,
+                "Lebar__m_": 0.33,
+                "Kedalaman": 0.23,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.443403, 0.563806]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 83.0,
+                "Titik": 1.0,
+                "Lat": 0.563645,
+                "Long": 101.442614,
+                "Nama_Jalan": "jalan tawas 4",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 84.0,
+                "Lebar__m_": 0.56,
+                "Kedalaman": 0.33,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.442614, 0.563645]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 84.0,
+                "Titik": 2.0,
+                "Lat": 0.563533,
+                "Long": 101.44336,
+                "Nama_Jalan": "jalan tawas 4",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 84.0,
+                "Lebar__m_": 0.56,
+                "Kedalaman": 0.33,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.44336, 0.563533]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 85.0,
+                "Titik": 1.0,
+                "Lat": 0.56363,
+                "Long": 101.444041,
+                "Nama_Jalan": "jalan belanak 1",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 50.0,
+                "Lebar__m_": 0.43,
+                "Kedalaman": 0.45,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.444041, 0.56363]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 86.0,
+                "Titik": 2.0,
+                "Lat": 0.563617,
+                "Long": 101.444225,
+                "Nama_Jalan": "jalan belanak 1",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 50.0,
+                "Lebar__m_": 0.43,
+                "Kedalaman": 0.45,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.444225, 0.563617]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 87.0,
+                "Titik": 3.0,
+                "Lat": 0.563716,
+                "Long": 101.444484,
+                "Nama_Jalan": "jalan belanak 1",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 50.0,
+                "Lebar__m_": 0.43,
+                "Kedalaman": 0.45,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.444484, 0.563716]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 88.0,
+                "Titik": 1.0,
+                "Lat": 0.563437,
+                "Long": 101.443689,
+                "Nama_Jalan": "jalan belanak 3",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 95.0,
+                "Lebar__m_": 0.56,
+                "Kedalaman": 0.46,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.443689, 0.563437]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 89.0,
+                "Titik": 2.0,
+                "Lat": 0.563388,
+                "Long": 101.443991,
+                "Nama_Jalan": "jalan belanak 3",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 95.0,
+                "Lebar__m_": 0.56,
+                "Kedalaman": 0.46,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.443991, 0.563388]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 90.0,
+                "Titik": 3.0,
+                "Lat": 0.563343,
+                "Long": 101.444193,
+                "Nama_Jalan": "jalan belanak 3",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 95.0,
+                "Lebar__m_": 0.56,
+                "Kedalaman": 0.46,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.444193, 0.563343]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 91.0,
+                "Titik": 4.0,
+                "Lat": 0.563461,
+                "Long": 101.444521,
+                "Nama_Jalan": "jalan belanak 3",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 95.0,
+                "Lebar__m_": 0.56,
+                "Kedalaman": 0.46,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.444521, 0.563461]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 92.0,
+                "Titik": 1.0,
+                "Lat": 0.563101,
+                "Long": 101.44394,
+                "Nama_Jalan": "jalan belanak 4",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 77.0,
+                "Lebar__m_": 0.48,
+                "Kedalaman": 0.25,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.44394, 0.563101]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 93.0,
+                "Titik": 2.0,
+                "Lat": 0.563048,
+                "Long": 101.444255,
+                "Nama_Jalan": "jalan belanak 4",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 77.0,
+                "Lebar__m_": 0.48,
+                "Kedalaman": 0.25,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.444255, 0.563048]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 94.0,
+                "Titik": 3.0,
+                "Lat": 0.563178,
+                "Long": 101.444607,
+                "Nama_Jalan": "jalan belanak 4",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 77.0,
+                "Lebar__m_": 0.48,
+                "Kedalaman": 0.25,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.444607, 0.563178]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 95.0,
+                "Titik": 1.0,
+                "Lat": 0.562857,
+                "Long": 101.443914,
+                "Nama_Jalan": "jalan belanak 5",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 95.0,
+                "Lebar__m_": 0.28,
+                "Kedalaman": 0.25,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.443914, 0.562857]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 96.0,
+                "Titik": 2.0,
+                "Lat": 0.562796,
+                "Long": 101.444334,
+                "Nama_Jalan": "jalan belanak 5",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 95.0,
+                "Lebar__m_": 0.28,
+                "Kedalaman": 0.25,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.444334, 0.562796]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 97.0,
+                "Titik": 3.0,
+                "Lat": 0.562959,
+                "Long": 101.444738,
+                "Nama_Jalan": "jalan belanak 5",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 95.0,
+                "Lebar__m_": 0.28,
+                "Kedalaman": 0.25,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.444738, 0.562959]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 98.0,
+                "Titik": 1.0,
+                "Lat": 0.562591,
+                "Long": 101.443874,
+                "Nama_Jalan": "jalan belanak 6",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 108.0,
+                "Lebar__m_": 0.34,
+                "Kedalaman": 0.58,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.443874, 0.562591]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 99.0,
+                "Titik": 2.0,
+                "Lat": 0.562529,
+                "Long": 101.444346,
+                "Nama_Jalan": "jalan belanak 6",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 108.0,
+                "Lebar__m_": 0.34,
+                "Kedalaman": 0.58,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.444346, 0.562529]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 100.0,
+                "Titik": 3.0,
+                "Lat": 0.562723,
+                "Long": 101.444802,
+                "Nama_Jalan": "jalan belanak 6",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 108.0,
+                "Lebar__m_": 0.34,
+                "Kedalaman": 0.58,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.444802, 0.562723]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 101.0,
+                "Titik": 1.0,
+                "Lat": 0.565605,
+                "Long": 101.440728,
+                "Nama_Jalan": "jalan udang 1",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 120.0,
+                "Lebar__m_": 0.47,
+                "Kedalaman": 0.4,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.440728, 0.565605]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 102.0,
+                "Titik": 2.0,
+                "Lat": 0.565425,
+                "Long": 101.441802,
+                "Nama_Jalan": "jalan udang 1",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 120.0,
+                "Lebar__m_": 0.47,
+                "Kedalaman": 0.4,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.441802, 0.565425]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 103.0,
+                "Titik": 1.0,
+                "Lat": 0.565856,
+                "Long": 101.440767,
+                "Nama_Jalan": "jalan udang 2",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 120.0,
+                "Lebar__m_": 0.54,
+                "Kedalaman": 0.55,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.440767, 0.565856]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 104.0,
+                "Titik": 2.0,
+                "Lat": 0.565663,
+                "Long": 101.441834,
+                "Nama_Jalan": "jalan udang 2",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 120.0,
+                "Lebar__m_": 0.54,
+                "Kedalaman": 0.55,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.441834, 0.565663]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 105.0,
+                "Titik": 1.0,
+                "Lat": 0.566302,
+                "Long": 101.439778,
+                "Nama_Jalan": "jalan udang 3",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 238.0,
+                "Lebar__m_": 0.5,
+                "Kedalaman": 0.42,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.439778, 0.566302]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 106.0,
+                "Titik": 2.0,
+                "Lat": 0.565999,
+                "Long": 101.441412,
+                "Nama_Jalan": "jalan udang 3",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 238.0,
+                "Lebar__m_": 0.5,
+                "Kedalaman": 0.42,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.441412, 0.565999]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 107.0,
+                "Titik": 3.0,
+                "Lat": 0.565845,
+                "Long": 101.441863,
+                "Nama_Jalan": "jalan udang 3",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 238.0,
+                "Lebar__m_": 0.5,
+                "Kedalaman": 0.42,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.441863, 0.565845]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 108.0,
+                "Titik": 1.0,
+                "Lat": 0.566109,
+                "Long": 101.440812,
+                "Nama_Jalan": "jalan udang 4",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 88.0,
+                "Lebar__m_": 0.39,
+                "Kedalaman": 0.46,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.440812, 0.566109]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 109.0,
+                "Titik": 2.0,
+                "Lat": 0.565324,
+                "Long": 101.440669,
+                "Nama_Jalan": "jalan udang 4",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 88.0,
+                "Lebar__m_": 0.39,
+                "Kedalaman": 0.46,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.440669, 0.565324]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 110.0,
+                "Titik": 1.0,
+                "Lat": 0.56615,
+                "Long": 101.44055,
+                "Nama_Jalan": "jalan udang 5",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 88.0,
+                "Lebar__m_": 0.55,
+                "Kedalaman": 0.46,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.44055, 0.56615]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 111.0,
+                "Titik": 2.0,
+                "Lat": 0.56538,
+                "Long": 101.440418,
+                "Nama_Jalan": "jalan udang 5",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 88.0,
+                "Lebar__m_": 0.55,
+                "Kedalaman": 0.46,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.440418, 0.56538]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 112.0,
+                "Titik": 1.0,
+                "Lat": 0.566192,
+                "Long": 101.440294,
+                "Nama_Jalan": "jalan udang 6",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 88.0,
+                "Lebar__m_": 0.47,
+                "Kedalaman": 0.37,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.440294, 0.566192]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 113.0,
+                "Titik": 2.0,
+                "Lat": 0.565419,
+                "Long": 101.440152,
+                "Nama_Jalan": "jalan udang 6",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 88.0,
+                "Lebar__m_": 0.47,
+                "Kedalaman": 0.37,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.440152, 0.565419]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 114.0,
+                "Titik": 1.0,
+                "Lat": 0.566234,
+                "Long": 101.440027,
+                "Nama_Jalan": "jalan udang 7",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 88.0,
+                "Lebar__m_": 0.34,
+                "Kedalaman": 0.32,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.440027, 0.566234]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 115.0,
+                "Titik": 2.0,
+                "Lat": 0.565454,
+                "Long": 101.439889,
+                "Nama_Jalan": "jalan udang 7",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 88.0,
+                "Lebar__m_": 0.34,
+                "Kedalaman": 0.32,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.439889, 0.565454]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 116.0,
+                "Titik": 1.0,
+                "Lat": 0.565352,
+                "Long": 101.440462,
+                "Nama_Jalan": "jalan sepat 1",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 79.0,
+                "Lebar__m_": 0.52,
+                "Kedalaman": 0.46,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.440462, 0.565352]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 117.0,
+                "Titik": 2.0,
+                "Lat": 0.565464,
+                "Long": 101.439753,
+                "Nama_Jalan": "jalan sepat 1",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 79.0,
+                "Lebar__m_": 0.52,
+                "Kedalaman": 0.46,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.439753, 0.565464]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 118.0,
+                "Titik": 1.0,
+                "Lat": 0.565352,
+                "Long": 101.440462,
+                "Nama_Jalan": "jalan sepat 2",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 82.0,
+                "Lebar__m_": 0.49,
+                "Kedalaman": 0.41,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.440462, 0.565352]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 119.0,
+                "Titik": 2.0,
+                "Lat": 0.565166,
+                "Long": 101.440431,
+                "Nama_Jalan": "jalan sepat 2",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 82.0,
+                "Lebar__m_": 0.49,
+                "Kedalaman": 0.41,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.440431, 0.565166]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 120.0,
+                "Titik": 3.0,
+                "Lat": 0.564868,
+                "Long": 101.440346,
+                "Nama_Jalan": "jalan sepat 2",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 82.0,
+                "Lebar__m_": 0.49,
+                "Kedalaman": 0.41,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.440346, 0.564868]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 121.0,
+                "Titik": 4.0,
+                "Lat": 0.564636,
+                "Long": 101.440289,
+                "Nama_Jalan": "jalan sepat 2",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 82.0,
+                "Lebar__m_": 0.49,
+                "Kedalaman": 0.41,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.440289, 0.564636]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 122.0,
+                "Titik": 1.0,
+                "Lat": 0.564592,
+                "Long": 101.440287,
+                "Nama_Jalan": "jalan sepat 5",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 87.0,
+                "Lebar__m_": 0.39,
+                "Kedalaman": 0.47,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.440287, 0.564592]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 123.0,
+                "Titik": 2.0,
+                "Lat": 0.56382,
+                "Long": 101.440164,
+                "Nama_Jalan": "jalan sepat 5",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 87.0,
+                "Lebar__m_": 0.39,
+                "Kedalaman": 0.47,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.440164, 0.56382]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 124.0,
+                "Titik": 1.0,
+                "Lat": 0.56451,
+                "Long": 101.440638,
+                "Nama_Jalan": "jalan sepat besar",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 86.0,
+                "Lebar__m_": 0.42,
+                "Kedalaman": 0.4,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.440638, 0.56451]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 125.0,
+                "Titik": 2.0,
+                "Lat": 0.564694,
+                "Long": 101.439756,
+                "Nama_Jalan": "jalan sepat besar",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 86.0,
+                "Lebar__m_": 0.42,
+                "Kedalaman": 0.4,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.439756, 0.564694]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 126.0,
+                "Titik": 3.0,
+                "Lat": 0.564668,
+                "Long": 101.439187,
+                "Nama_Jalan": "jalan sepat besar",
+                "Nama_Perum": "Perumnas",
+                "Panjang__m": 86.0,
+                "Lebar__m_": 0.42,
+                "Kedalaman": 0.4,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.439187, 0.564668]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 127.0,
+                "Titik": 1.0,
+                "Lat": 0.562782,
+                "Long": 101.445414,
+                "Nama_Jalan": "jalan. Perumahan",
+                "Nama_Perum": "perum permata land",
+                "Panjang__m": 94.0,
+                "Lebar__m_": 0.1,
+                "Kedalaman": 0.38,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.445414, 0.562782]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 128.0,
+                "Titik": 2.0,
+                "Lat": 0.563557,
+                "Long": 101.445099,
+                "Nama_Jalan": "jalan. Perumahan",
+                "Nama_Perum": "perum permata land",
+                "Panjang__m": 39.0,
+                "Lebar__m_": 0.29,
+                "Kedalaman": 0.31,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.445099, 0.563557]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 129.0,
+                "Titik": 3.0,
+                "Lat": 0.563503,
+                "Long": 101.444808,
+                "Nama_Jalan": "jalan. Perumahan",
+                "Nama_Perum": "perum permata land",
+                "Panjang__m": 99.0,
+                "Lebar__m_": 0.33,
+                "Kedalaman": 0.38,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.444808, 0.563503]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 130.0,
+                "Titik": 4.0,
+                "Lat": 0.56263,
+                "Long": 101.445102,
+                "Nama_Jalan": "jalan. Perumahan",
+                "Nama_Perum": "perum permata land",
+                "Panjang__m": 37.0,
+                "Lebar__m_": 0.33,
+                "Kedalaman": 0.38,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.445102, 0.56263]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 131.0,
+                "Titik": 1.0,
+                "Lat": 0.56298,
+                "Long": 101.446902,
+                "Nama_Jalan": "jalan. Perumahan",
+                "Nama_Perum": "kompleks griya rumbai lestari",
+                "Panjang__m": 73.0,
+                "Lebar__m_": 0.23,
+                "Kedalaman": 0.45,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.446902, 0.56298]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 132.0,
+                "Titik": 2.0,
+                "Lat": 0.562637,
+                "Long": 101.445732,
+                "Nama_Jalan": "jalan. Perumahan",
+                "Nama_Perum": "kompleks griya rumbai lestari",
+                "Panjang__m": 60.0,
+                "Lebar__m_": 0.59,
+                "Kedalaman": 0.47,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.445732, 0.562637]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 133.0,
+                "Titik": 3.0,
+                "Lat": 0.562076,
+                "Long": 101.445806,
+                "Nama_Jalan": "jalan. Perumahan",
+                "Nama_Perum": "kompleks griya rumbai lestari",
+                "Panjang__m": 65.0,
+                "Lebar__m_": 0.66,
+                "Kedalaman": 0.44,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.445806, 0.562076]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 134.0,
+                "Titik": 4.0,
+                "Lat": 0.562086,
+                "Long": 101.446323,
+                "Nama_Jalan": "jalan. Perumahan",
+                "Nama_Perum": "kompleks griya rumbai lestari",
+                "Panjang__m": 54.0,
+                "Lebar__m_": 0.28,
+                "Kedalaman": 0.5,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.446323, 0.562086]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 135.0,
+                "Titik": 5.0,
+                "Lat": 0.562302,
+                "Long": 101.446946,
+                "Nama_Jalan": "jalan. Perumahan",
+                "Nama_Perum": "kompleks griya rumbai lestari",
+                "Panjang__m": 57.0,
+                "Lebar__m_": 0.32,
+                "Kedalaman": 0.43,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.446946, 0.562302]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "No": 136.0,
+                "Titik": 6.0,
+                "Lat": 0.562646,
+                "Long": 101.446932,
+                "Nama_Jalan": "jalan. Perumahan",
+                "Nama_Perum": "kompleks griya rumbai lestari",
+                "Panjang__m": 62.0,
+                "Lebar__m_": 0.45,
+                "Kedalaman": 0.44,
+                "Bahan": "Batu",
+                "Kondisi": "Bagus",
+                "Arah_Alir": "Kanan",
+                "Akhir_Pemb": "Parit Besar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [101.446932, 0.562646]
+            }
+        }
+    ]
+}

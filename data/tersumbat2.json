@@ -1,0 +1,29 @@
+{
+    "type" : "FeatureCollection",
+    "crs" : {
+      "type" : "name",
+      "properties" : {
+        "name" : "EPSG:4326"
+      }
+    },
+    "features" : [
+        {
+            "type" : "Feature",
+            "id" : 1,
+            "geometry" : {
+              "type" : "Point",
+              "coordinates" : [
+                101.44301900000001,
+                0.561921
+              ]
+            },
+            "properties" : {
+              "FID" : 1,
+              "No" : 2,
+              "Lat" : 0.561921,
+              "Long" : 101.44301900000001,
+              "Nama_Jalan" : "Jl. Keli 3 "
+            }
+          }
+    ]
+}

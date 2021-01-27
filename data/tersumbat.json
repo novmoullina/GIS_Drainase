@@ -1,0 +1,66 @@
+{
+  "type" : "FeatureCollection",
+  "crs" : {
+    "type" : "name",
+    "properties" : {
+      "name" : "EPSG:4326"
+    }
+  },
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.440235,
+          0.56266000000000005
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "No" : 1,
+        "Lat" : 0.56266000000000005,
+        "Long" : 101.440235,
+        "Nama_Jalan" : "Jl. Gabus 6 "
+
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44301900000001,
+          0.561921
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "No" : 2,
+        "Lat" : 0.561921,
+        "Long" : 101.44301900000001,
+        "Nama_Jalan" : "Jl. Keli 3 "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.442255,
+          0.56358799999999998
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "No" : 3,
+        "Lat" : 0.56358799999999998,
+        "Long" : 101.442255,
+        "Nama_Jalan" : "Jl. Mujair 2 "
+      }
+    }
+  ]
+}

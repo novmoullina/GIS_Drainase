@@ -1,0 +1,32 @@
+{
+    "type" : "FeatureCollection",
+    "crs" : {
+      "type" : "name",
+      "properties" : {
+        "name" : "EPSG:4326"
+      }
+    },
+    "features" : [
+      {
+        "type" : "Feature",
+        "id" : 0,
+        "geometry" : {
+          "type" : "Point",
+          "coordinates" : [
+            101.440235,
+            0.56266000000000005
+          ]
+        },
+        "properties" : {
+          "FID" : 0,
+          "No" : 1,
+          "Lat" : 0.56266000000000005,
+          "Long" : 101.440235,
+          "Nama_Jalan" : "Jl. Gabus 6 "
+        }
+      }
+    ]
+}
+
+
+    

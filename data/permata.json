@@ -1,0 +1,119 @@
+{
+  "type" : "FeatureCollection",
+  "crs" : {
+    "type" : "name",
+    "properties" : {
+      "name" : "EPSG:4326"
+    }
+  },
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.445414,
+          0.562782
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "No" : 1,
+        "Titik" : 1,
+        "Lat" : 0.562782,
+        "Long" : 101.445414,
+        "Nama_Jalan" : "jalan. Perumahan",
+        "Nama_Perum" : "perum permata land",
+        "Panjang__m" : 94,
+        "Lebar__m_" : 0.10000000000000001,
+        "Kedalaman" : 0.38,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.445099,
+          0.56355699999999997
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "No" : 2,
+        "Titik" : 2,
+        "Lat" : 0.56355699999999997,
+        "Long" : 101.445099,
+        "Nama_Jalan" : "jalan. Perumahan",
+        "Nama_Perum" : "perum permata land",
+        "Panjang__m" : 39,
+        "Lebar__m_" : 0.28999999999999998,
+        "Kedalaman" : 0.31,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44480799999999,
+          0.56350299999999998
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "No" : 3,
+        "Titik" : 3,
+        "Lat" : 0.56350299999999998,
+        "Long" : 101.44480799999999,
+        "Nama_Jalan" : "jalan. Perumahan",
+        "Nama_Perum" : "perum permata land",
+        "Panjang__m" : 99,
+        "Lebar__m_" : 0.33000000000000002,
+        "Kedalaman" : 0.38,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44510200000001,
+          0.56262999999999996
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "No" : 4,
+        "Titik" : 4,
+        "Lat" : 0.56262999999999996,
+        "Long" : 101.44510200000001,
+        "Nama_Jalan" : "jalan. Perumahan",
+        "Nama_Perum" : "perum permata land",
+        "Panjang__m" : 37,
+        "Lebar__m_" : 0.33000000000000002,
+        "Kedalaman" : 0.38,
+        "Bahan" : "Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "Kanan",
+        "Akhir_Pemb" : "Parit Besar"
+      }
+    }
+  ]
+}

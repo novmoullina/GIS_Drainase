@@ -1,0 +1,227 @@
+{
+  "type" : "FeatureCollection",
+  "crs" : {
+    "type" : "name",
+    "properties" : {
+      "name" : "EPSG:4326"
+    }
+  },
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.43758200000001,
+          0.56430100000000005
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "No" : 1,
+        "Titik" : 1,
+        "Lat" : 0.56430100000000005,
+        "Long" : 101.43758200000001,
+        "Nama_Jalan" : "jl. Bukit Betabuh",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 184,
+        "Lebar__m_" : 0.11,
+        "Kedalaman" : 0.17000000000000001,
+        "Bahan" : " Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "kering",
+        "Akhir_Pemb" : "kering"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.437917,
+          0.56432000000000004
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "No" : 2,
+        "Titik" : 2,
+        "Lat" : 0.56432000000000004,
+        "Long" : 101.437917,
+        "Nama_Jalan" : "jl. Bukit Betabuh",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 184,
+        "Lebar__m_" : 0.11,
+        "Kedalaman" : 0.17000000000000001,
+        "Bahan" : " Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "kering",
+        "Akhir_Pemb" : "kering"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.438261,
+          0.56434300000000004
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "No" : 3,
+        "Titik" : 3,
+        "Lat" : 0.56434300000000004,
+        "Long" : 101.438261,
+        "Nama_Jalan" : "jl. Bukit Betabuh",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 184,
+        "Lebar__m_" : 0.11,
+        "Kedalaman" : 0.17000000000000001,
+        "Bahan" : " Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "kering",
+        "Akhir_Pemb" : "kering"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.43923599999999,
+          0.564442
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "No" : 4,
+        "Titik" : 4,
+        "Lat" : 0.564442,
+        "Long" : 101.43923599999999,
+        "Nama_Jalan" : "jl. Bukit Betabuh",
+        "Nama_Perum" : "Perumahan Pembangunan",
+        "Panjang__m" : 184,
+        "Lebar__m_" : 0.11,
+        "Kedalaman" : 0.17000000000000001,
+        "Bahan" : " Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "kering",
+        "Akhir_Pemb" : "kering"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.433249,
+          0.56416100000000002
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "No" : 5,
+        "Titik" : 1,
+        "Lat" : 0.56416100000000002,
+        "Long" : 101.433249,
+        "Nama_Jalan" : "Jalan. Semarang",
+        "Nama_Perum" : "Perum Green House",
+        "Panjang__m" : 315,
+        "Lebar__m_" : 1,
+        "Kedalaman" : 0.64000000000000001,
+        "Bahan" : " Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "kering",
+        "Akhir_Pemb" : "kering"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.434594,
+          0.56414299999999995
+        ]
+      },
+      "properties" : {
+        "FID" : 5,
+        "No" : 6,
+        "Titik" : 2,
+        "Lat" : 0.56414299999999995,
+        "Long" : 101.434594,
+        "Nama_Jalan" : "Jalan. Semarang",
+        "Nama_Perum" : "Perum Green House",
+        "Panjang__m" : 315,
+        "Lebar__m_" : 1,
+        "Kedalaman" : 0.64000000000000001,
+        "Bahan" : " Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "kering",
+        "Akhir_Pemb" : "kering"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.433657,
+          0.56408599999999998
+        ]
+      },
+      "properties" : {
+        "FID" : 6,
+        "No" : 7,
+        "Titik" : 3,
+        "Lat" : 0.56408599999999998,
+        "Long" : 101.433657,
+        "Nama_Jalan" : "Jalan. Semarang",
+        "Nama_Perum" : "Perum Green House",
+        "Panjang__m" : 315,
+        "Lebar__m_" : 1,
+        "Kedalaman" : 0.64000000000000001,
+        "Bahan" : " Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "kering",
+        "Akhir_Pemb" : "kering"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.43459,
+          0.564164
+        ]
+      },
+      "properties" : {
+        "FID" : 7,
+        "No" : 8,
+        "Titik" : 4,
+        "Lat" : 0.564164,
+        "Long" : 101.43459,
+        "Nama_Jalan" : "Jalan. Semarang",
+        "Nama_Perum" : "Perum Green House",
+        "Panjang__m" : 315,
+        "Lebar__m_" : 1,
+        "Kedalaman" : 0.64000000000000001,
+        "Bahan" : " Batu",
+        "Kondisi" : "Bagus",
+        "Arah_Alir" : "kering",
+        "Akhir_Pemb" : "kering"
+      }
+    }
+  ]
+}

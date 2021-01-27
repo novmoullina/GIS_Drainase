@@ -1,0 +1,2486 @@
+{
+  "type" : "FeatureCollection",
+  "crs" : {
+    "type" : "name",
+    "properties" : {
+      "name" : "EPSG:4326"
+    }
+  },
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.44051949957532,
+            0.56370599973212165
+          ],
+          [
+            101.44012910027783,
+            0.56377600026223718
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 1,
+        "osm_id" : "123098500",
+        "code" : 5122,
+        "fclass" : "residential",
+        "name" : "Jl. Gabus 1",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.00039662537197558353
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.44047250010584,
+            0.56214170007945086
+          ],
+          [
+            101.44044969959401,
+            0.56222599983004784
+          ],
+          [
+            101.44036530001864,
+            0.56244269957096549
+          ],
+          [
+            101.44032460030013,
+            0.56254710006868436
+          ],
+          [
+            101.44025540016662,
+            0.56268550033564679
+          ],
+          [
+            101.44020970021757,
+            0.5627769002338141
+          ],
+          [
+            101.44017699996863,
+            0.56290019998431262
+          ],
+          [
+            101.44009139979835,
+            0.56322309976627594
+          ],
+          [
+            101.44010440039784,
+            0.56348029957621293
+          ],
+          [
+            101.44010949955384,
+            0.56354169988958347
+          ],
+          [
+            101.44012910027783,
+            0.56377600026223718
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 2,
+        "osm_id" : "123098501",
+        "code" : 5122,
+        "fclass" : "residential",
+        "name" : "Jl. Gabus VIII",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 30,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.0017047362275794437
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            98.685094399686875,
+            3.5853441003499711
+          ],
+          [
+            98.684542099938028,
+            3.5867355997681898
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 3,
+        "osm_id" : "160408959",
+        "code" : 5115,
+        "fclass" : "tertiary",
+        "name" : "Jl. Semarang",
+        "ref" : " ",
+        "oneway" : "F",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.0014970990760398589
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            98.686231499783958,
+            3.5829159002486222
+          ],
+          [
+            98.685919700333955,
+            3.5836765998952274
+          ],
+          [
+            98.685617600072248,
+            3.5843277000633407
+          ],
+          [
+            98.685266400424098,
+            3.5853731997134446
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 4,
+        "osm_id" : "160408996",
+        "code" : 5122,
+        "fclass" : "residential",
+        "name" : "Jl. Semarang",
+        "ref" : " ",
+        "oneway" : "F",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.0026428026052654372
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            98.647292800422463,
+            3.6137543996458703
+          ],
+          [
+            98.647290300307191,
+            3.6128828999259213
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 5,
+        "osm_id" : "160825906",
+        "code" : 5122,
+        "fclass" : "residential",
+        "name" : "Gg. Pribadi",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.00087150330604515421
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            116.98977799995475,
+            -0.44098200041895552
+          ],
+          [
+            116.99020599990706,
+            -0.44076000007390803
+          ],
+          [
+            116.99040700018293,
+            -0.44065599977454895
+          ],
+          [
+            116.99060999965184,
+            -0.44055200037445275
+          ],
+          [
+            116.99080100036599,
+            -0.44045200025954045
+          ],
+          [
+            116.99101000011149,
+            -0.44034399977573457
+          ],
+          [
+            116.99139099969489,
+            -0.4401469996842593
+          ],
+          [
+            116.9919330004077,
+            -0.43954899998630026
+          ],
+          [
+            116.99283399968942,
+            -0.43881400026583606
+          ],
+          [
+            116.99283599978162,
+            -0.43881300021973857
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 6,
+        "osm_id" : "184878585",
+        "code" : 5122,
+        "fclass" : "residential",
+        "name" : "Jl. Keli",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.0037883939844152296
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.39490210015185,
+            0.45957350001708619
+          ],
+          [
+            101.39448900016731,
+            0.45957929974491663
+          ],
+          [
+            101.39423929980393,
+            0.45960050036285338
+          ],
+          [
+            101.39407850012276,
+            0.45965119964319001
+          ],
+          [
+            101.39385410038648,
+            0.45972320026550051
+          ],
+          [
+            101.39354520035079,
+            0.45978249976258212
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 7,
+        "osm_id" : "306566653",
+        "code" : 5122,
+        "fclass" : "residential",
+        "name" : "Gg. Pribadi",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.0013825506424409563
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.44064299987463,
+            0.56561449960952359
+          ],
+          [
+            101.44174240039155,
+            0.56544099970244588
+          ],
+          [
+            101.44202799989233,
+            0.56539340038517594
+          ],
+          [
+            101.44225710038495,
+            0.56535669995179205
+          ],
+          [
+            101.4425145996691,
+            0.5653031003578235
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 8,
+        "osm_id" : "310794601",
+        "code" : 5141,
+        "fclass" : "service",
+        "name" : "Jl. Udang 1",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.0018975855875378843
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.43997379995096,
+            0.56625660026196556
+          ],
+          [
+            101.4402030002683,
+            0.56622030002688462
+          ],
+          [
+            101.44048210036868,
+            0.56617619997172142
+          ],
+          [
+            101.44073389974972,
+            0.56613629975049662
+          ],
+          [
+            101.44092190032552,
+            0.56610659963990884
+          ],
+          [
+            101.44146509983455,
+            0.56602060017058875
+          ],
+          [
+            101.44182319998077,
+            0.56588379979757519
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 9,
+        "osm_id" : "310794603",
+        "code" : 5141,
+        "fclass" : "service",
+        "name" : "Jl, Udang 3",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.0018931987448360769
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.44059660025295,
+            0.56536570036683997
+          ],
+          [
+            101.44064299987463,
+            0.56561449960952359
+          ],
+          [
+            101.44069429990208,
+            0.5658959001756898
+          ],
+          [
+            101.44073389974972,
+            0.56613629975049662
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 10,
+        "osm_id" : "310794604",
+        "code" : 5141,
+        "fclass" : "service",
+        "name" : "Jl. Udang 4",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.00078276659236322591
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.44230819986359,
+            0.56565210026428758
+          ],
+          [
+            101.44206769956475,
+            0.56568839959999195
+          ],
+          [
+            101.44179499993936,
+            0.5657296002408998
+          ],
+          [
+            101.44069429990208,
+            0.5658959001756898
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 11,
+        "osm_id" : "310794605",
+        "code" : 5141,
+        "fclass" : "service",
+        "name" : "Jl. Udang 2",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.0016322106145056851
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.43997379995096,
+            0.56625660026196556
+          ],
+          [
+            101.43985720014973,
+            0.56548730039861539
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 12,
+        "osm_id" : "310794609",
+        "code" : 5141,
+        "fclass" : "service",
+        "name" : "Jl. Udang 7",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.00077808598072303683
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.4402030002683,
+            0.56622030002688462
+          ],
+          [
+            101.4401006996876,
+            0.56544730035267321
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 13,
+        "osm_id" : "310794610",
+        "code" : 5141,
+        "fclass" : "service",
+        "name" : "J. Udang 6",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.00077973963932907015
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.44048210036868,
+            0.56617619997172142
+          ],
+          [
+            101.44038739995858,
+            0.56540010033438648
+          ],
+          [
+            101.4403263000188,
+            0.56515630042298426
+          ],
+          [
+            101.44032210018486,
+            0.56513020029854033
+          ],
+          [
+            101.44024000017595,
+            0.56461400023596298
+          ],
+          [
+            101.44012910027783,
+            0.56377600026223718
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 14,
+        "osm_id" : "310794611",
+        "code" : 5141,
+        "fclass" : "service",
+        "name" : "Jl. Sepat V",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.0024276259486960454
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.44401969964946,
+            0.56480219956188193
+          ],
+          [
+            101.44326390040874,
+            0.56494230044683036
+          ],
+          [
+            101.442999700276,
+            0.56499130000855757
+          ],
+          [
+            101.44275259985267,
+            0.56503709978238703
+          ],
+          [
+            101.44250970016259,
+            0.56508210005893034
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 15,
+        "osm_id" : "310985610",
+        "code" : 5141,
+        "fclass" : "service",
+        "name" : "Jl. Pari 1",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 20,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.0015357222229847953
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.44287069972307,
+            0.56588670011115028
+          ],
+          [
+            101.44280659964494,
+            0.56548469955930614
+          ],
+          [
+            101.44275259985267,
+            0.56503709978238703
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 16,
+        "osm_id" : "310985612",
+        "code" : 5141,
+        "fclass" : "service",
+        "name" : "Jl. Baung 2",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.00085792429952456469
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.44315909971272,
+            0.56594860044759798
+          ],
+          [
+            101.442999700276,
+            0.56499130000855757
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 17,
+        "osm_id" : "310985613",
+        "code" : 5141,
+        "fclass" : "service",
+        "name" : "Jl. Baung 1",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.00097048045369849405
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.44344160014981,
+            0.56596880012006068
+          ],
+          [
+            101.44334560021935,
+            0.56556419962817017
+          ],
+          [
+            101.44331030003036,
+            0.56523729966170322
+          ],
+          [
+            101.44326390040874,
+            0.56494230044683036
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 18,
+        "osm_id" : "310985614",
+        "code" : 5141,
+        "fclass" : "service",
+        "name" : "Jl. Baung Induk",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.0010432598925030193
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.44322340033972,
+            0.56469029961766637
+          ],
+          [
+            101.44326390040874,
+            0.56494230044683036
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 19,
+        "osm_id" : "310985618",
+        "code" : 5141,
+        "fclass" : "service",
+        "name" : "Jl. Baung Induk",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.00025523454603542598
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.44316779975424,
+            0.56439080019532639
+          ],
+          [
+            101.44322340033972,
+            0.56469029961766637
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 20,
+        "osm_id" : "310985619",
+        "code" : 5141,
+        "fclass" : "service",
+        "name" : "Jl. Baung Induk",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.00030461669207064397
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.44072280031702,
+            0.56493959978274688
+          ],
+          [
+            101.44102300031125,
+            0.56489229993974277
+          ],
+          [
+            101.44128709971994,
+            0.56485060017507749
+          ],
+          [
+            101.44154300000952,
+            0.56482199993541826
+          ],
+          [
+            101.44178350030836,
+            0.56477229980185939
+          ],
+          [
+            101.44202179996614,
+            0.56473479987118935
+          ],
+          [
+            101.44243930033349,
+            0.56466890024961458
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 21,
+        "osm_id" : "310989654",
+        "code" : 5141,
+        "fclass" : "service",
+        "name" : "Jl. Mujair VII",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.001738251658916301
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.4408593003165,
+            0.56384919968087388
+          ],
+          [
+            101.44111259976671,
+            0.56380499980093646
+          ],
+          [
+            101.44138440007009,
+            0.56375769995793235
+          ],
+          [
+            101.44163649982465,
+            0.56371379955226075
+          ],
+          [
+            101.44188859957927,
+            0.56366990004590889
+          ],
+          [
+            101.44224009960095,
+            0.56360859955725573
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 22,
+        "osm_id" : "310989655",
+        "code" : 5141,
+        "fclass" : "service",
+        "name" : "Jl. Mujair II",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.0014016044882008121
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.44102300031125,
+            0.56489229993974277
+          ],
+          [
+            101.4408593003165,
+            0.56384919968087388
+          ],
+          [
+            101.44080910015992,
+            0.56352939986197725
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 23,
+        "osm_id" : "310989656",
+        "code" : 5141,
+        "fclass" : "service",
+        "name" : "jalan mujair 1",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.0013795832331437202
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.44128709971994,
+            0.56485060017507749
+          ],
+          [
+            101.44111259976671,
+            0.56380499980093646
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 24,
+        "osm_id" : "310989657",
+        "code" : 5141,
+        "fclass" : "service",
+        "name" : "Jl. Mujair III",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.0010600614963679467
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.44154300000952,
+            0.56482199993541826
+          ],
+          [
+            101.44138440007009,
+            0.56375769995793235
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 25,
+        "osm_id" : "310989658",
+        "code" : 5141,
+        "fclass" : "service",
+        "name" : "Jl. Mujair IV",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.0010760522212523783
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.44178350030836,
+            0.56477229980185939
+          ],
+          [
+            101.44163649982465,
+            0.56371379955226075
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 26,
+        "osm_id" : "310989659",
+        "code" : 5141,
+        "fclass" : "service",
+        "name" : "Jl. Mujair V",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.001068658935587305
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.44202179996614,
+            0.56473479987118935
+          ],
+          [
+            101.44188859957927,
+            0.56366990004590889
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 27,
+        "osm_id" : "310989659",
+        "code" : 5141,
+        "fclass" : "service",
+        "name" : "Jl. Mujair VI",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.0010731980157196524
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.44267500005128,
+            0.56446639990446101
+          ],
+          [
+            101.44263049979781,
+            0.56417830028834715
+          ],
+          [
+            101.44259380026375,
+            0.56394080012785253
+          ],
+          [
+            101.44254849961362,
+            0.56364720025811721
+          ],
+          [
+            101.4425089995907,
+            0.5633916003421291
+          ],
+          [
+            101.44246820004747,
+            0.563127400209396
+          ],
+          [
+            101.44242689958179,
+            0.56286050031189916
+          ],
+          [
+            101.44238750028296,
+            0.56260550024370559
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 28,
+        "osm_id" : "310989661",
+        "code" : 5141,
+        "fclass" : "service",
+        "name" : "jl. Mas 4",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.0018829773549835366
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.44263049979781,
+            0.56417830028834715
+          ],
+          [
+            101.44340920027446,
+            0.56406319965697094
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 29,
+        "osm_id" : "310989663",
+        "code" : 5141,
+        "fclass" : "service",
+        "name" : "Jl. Tawas 2",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.00078716109384870505
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 30,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.44259380026375,
+            0.56394080012785253
+          ],
+          [
+            101.4433705995736,
+            0.56381939974556872
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 30,
+        "osm_id" : "310989664",
+        "code" : 5141,
+        "fclass" : "service",
+        "name" : "Jl. Tawas 3",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.00078622847862260816
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 31,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.44254849961362,
+            0.56364720025811721
+          ],
+          [
+            101.44332429977669,
+            0.56352679992193089
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 31,
+        "osm_id" : "310989665",
+        "code" : 5141,
+        "fclass" : "service",
+        "name" : "Jl. Tawas 4",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.00078508734161991949
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 32,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.4425089995907,
+            0.5633916003421291
+          ],
+          [
+            101.44328479975377,
+            0.56327730010735877
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 32,
+        "osm_id" : "310989666",
+        "code" : 5141,
+        "fclass" : "service",
+        "name" : "Jl. Mas 1",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.00078417500386495644
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 33,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.44246820004747,
+            0.563127400209396
+          ],
+          [
+            101.4432426997908,
+            0.56301190027903658
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 33,
+        "osm_id" : "310989667",
+        "code" : 5141,
+        "fclass" : "service",
+        "name" : "Jl. Mas 2",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.00078306454799719513
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 34,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.44242689958179,
+            0.56286050031189916
+          ],
+          [
+            101.44320030035362,
+            0.56274339958827113
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 34,
+        "osm_id" : "310989668",
+        "code" : 5141,
+        "fclass" : "service",
+        "name" : "Jl. Mas 3",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.00078221565654731852
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 35,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.43434120028621,
+            0.56413659962441898
+          ],
+          [
+            101.43372440026093,
+            0.56408910013192326
+          ],
+          [
+            101.4334950002941,
+            0.56408910013192326
+          ],
+          [
+            101.43314700043379,
+            0.56416030035762788
+          ],
+          [
+            101.43257850029761,
+            0.5639927998278722
+          ],
+          [
+            101.43180790001463,
+            0.56376659964888631
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 35,
+        "osm_id" : "311100824",
+        "code" : 5122,
+        "fclass" : "residential",
+        "name" : "Jl. Semarang",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.0025990111719200676
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 36,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.44080750026598,
+            0.56227639963617548
+          ],
+          [
+            101.44108100028797,
+            0.56220709967794846
+          ],
+          [
+            101.44136209958128,
+            0.56213590035156358
+          ],
+          [
+            101.44161339983862,
+            0.5620721995724125
+          ],
+          [
+            101.44193559994807,
+            0.56198739979868151
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 36,
+        "osm_id" : "311122351",
+        "code" : 5141,
+        "fclass" : "service",
+        "name" : "Jl. Gurami 2",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.0011645399185258286
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 37,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.44108100028797,
+            0.56220709967794846
+          ],
+          [
+            101.44097099971191,
+            0.56170860007188139
+          ],
+          [
+            101.44125929987683,
+            0.56164259972626951
+          ],
+          [
+            101.44149630001431,
+            0.56158829956041245
+          ],
+          [
+            101.44161339983862,
+            0.5620721995724125
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 37,
+        "osm_id" : "311122352",
+        "code" : 5141,
+        "fclass" : "service",
+        "name" : "Jl. Gurami 3",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.0015472584002469375
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 38,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.44161339983862,
+            0.5620721995724125
+          ],
+          [
+            101.44167459960318,
+            0.56242290009680573
+          ],
+          [
+            101.4418401998654,
+            0.56337899994093732
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 38,
+        "osm_id" : "311122354",
+        "code" : 5141,
+        "fclass" : "service",
+        "name" : "Jl. Gurami 1",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.0013263355563805062
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 39,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.4423623003799,
+            0.56230280013414813
+          ],
+          [
+            101.44230419967914,
+            0.56201230022753634
+          ],
+          [
+            101.44225499956866,
+            0.56176600020080514
+          ],
+          [
+            101.4422068004036,
+            0.56152490005416666
+          ],
+          [
+            101.44219810036208,
+            0.56148160039560935
+          ],
+          [
+            101.4421408998827,
+            0.56119559979714495
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 39,
+        "osm_id" : "311122358",
+        "code" : 5141,
+        "fclass" : "service",
+        "name" : "Jl. Keli 2",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.0011291194896435809
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 40,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.44303069990696,
+            0.56217290025921329
+          ],
+          [
+            101.4423623003799,
+            0.56230280013414813
+          ],
+          [
+            101.44200720037207,
+            0.56236819973270258
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 40,
+        "osm_id" : "311122360",
+        "code" : 5141,
+        "fclass" : "service",
+        "name" : "Jl. Keli 1",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.0010419773955702026
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 41,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.44298859994399,
+            0.56192160000188096
+          ],
+          [
+            101.44230419967914,
+            0.56201230022753634
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 41,
+        "osm_id" : "311122361",
+        "code" : 5141,
+        "fclass" : "service",
+        "name" : "Jl. Keli 3",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.00069038413470601961
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 42,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.44294370039154,
+            0.56165360023351241
+          ],
+          [
+            101.44225499956866,
+            0.56176600020080514
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 42,
+        "osm_id" : "311122362",
+        "code" : 5141,
+        "fclass" : "service",
+        "name" : "Jl. Keli 4",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.00069781270845355691
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 43,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.44449799958306,
+            0.56346750042484928
+          ],
+          [
+            101.44413239999034,
+            0.56332040011642448
+          ],
+          [
+            101.44389680009732,
+            0.56335999996406372
+          ],
+          [
+            101.44361209991854,
+            0.56340789965491922
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 43,
+        "osm_id" : "311123308",
+        "code" : 5141,
+        "fclass" : "service",
+        "name" : "Jl. Belanak 3",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.00092168942461849537
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 44,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.44477439991869,
+            0.56271280015562297
+          ],
+          [
+            101.44423519969479,
+            0.56249789995814581
+          ],
+          [
+            101.44376480030536,
+            0.5625798003175646
+          ],
+          [
+            101.44348930019112,
+            0.56262779983313749
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 44,
+        "osm_id" : "311123309",
+        "code" : 5141,
+        "fclass" : "service",
+        "name" : "Jl. Belanak 6",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.0013375733986077957
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 45,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.44468330039405,
+            0.56296149957358921
+          ],
+          [
+            101.44421140003612,
+            0.56277469959275095
+          ],
+          [
+            101.44380869981171,
+            0.5628392996939624
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 45,
+        "osm_id" : "311123315",
+        "code" : 5141,
+        "fclass" : "service",
+        "name" : "Jl. Belanak 5",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.00091537631732723575
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 46,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.44458950020532,
+            0.56321780006146582
+          ],
+          [
+            101.44417190001326,
+            0.56303569993764313
+          ],
+          [
+            101.44385270004216,
+            0.56309939981747448
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 46,
+        "osm_id" : "311123318",
+        "code" : 5141,
+        "fclass" : "service",
+        "name" : "Jl. Belanak 4",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.00078107089648921091
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 47,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.44441119971714,
+            0.56370439983822962
+          ],
+          [
+            101.44414029963519,
+            0.56359719975102962
+          ],
+          [
+            101.44394080032771,
+            0.56362000026285841
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 47,
+        "osm_id" : "311123319",
+        "code" : 5141,
+        "fclass" : "service",
+        "name" : "Jl. Belanak 2",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.00049213751571238699
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 48,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.44432179991122,
+            0.56394869977270901
+          ],
+          [
+            101.44414029963519,
+            0.56387400028495449
+          ],
+          [
+            101.4439868995758,
+            0.56389300026182809
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 48,
+        "osm_id" : "311123321",
+        "code" : 5141,
+        "fclass" : "service",
+        "name" : "Jl. Belanak 1",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.00035084338821683768
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 49,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.44012910027783,
+            0.56377600026223718
+          ],
+          [
+            101.43983889984543,
+            0.56384010034042831
+          ],
+          [
+            101.43960129986016,
+            0.56389250023875093
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 49,
+        "osm_id" : "311288884",
+        "code" : 5141,
+        "fclass" : "service",
+        "name" : "Jl. Gabus 1",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.00054050488729775548
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 50,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.43960129986016,
+            0.56389250023875093
+          ],
+          [
+            101.4393150996122,
+            0.56385500030808089
+          ],
+          [
+            101.43863819969323,
+            0.5637662003499031
+          ],
+          [
+            101.43838459986944,
+            0.56373290025317147
+          ],
+          [
+            101.43762889955411,
+            0.56363380035963928
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 50,
+        "osm_id" : "311288885",
+        "code" : 5122,
+        "fclass" : "residential",
+        "name" : "Gg. Pribadi",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.0019892934970211296
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 51,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.43952620017404,
+            0.56231550036011413
+          ],
+          [
+            101.43998750022303,
+            0.56230480022639995
+          ],
+          [
+            101.44036530001864,
+            0.56244269957096549
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 51,
+        "osm_id" : "311288893",
+        "code" : 5141,
+        "fclass" : "service",
+        "name" : "Jl. Gabus 7",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.00086360433222967717
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 52,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.43959059972644,
+            0.56260510004540265
+          ],
+          [
+            101.43995529999717,
+            0.56258369977797429
+          ],
+          [
+            101.44025540016662,
+            0.56268550033564679
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 52,
+        "osm_id" : "311288895",
+        "code" : 5141,
+        "fclass" : "service",
+        "name" : "Jl. Gabus 5",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.00068222422093878066
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 53,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.4395584003999,
+            0.56289479955540855
+          ],
+          [
+            101.43993389972974,
+            0.56283040000300844
+          ],
+          [
+            101.44017699996863,
+            0.56290019998431262
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 53,
+        "osm_id" : "311288896",
+        "code" : 5141,
+        "fclass" : "service",
+        "name" : "Jl. Gabus 4",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.00063390413693328439
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 54,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.43958570021994,
+            0.56363540025358816
+          ],
+          [
+            101.44010949955384,
+            0.56354169988958347
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 54,
+        "osm_id" : "311288897",
+        "code" : 5141,
+        "fclass" : "service",
+        "name" : "Jl. Gabus 2",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.00053211417986561479
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 55,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.43753679998338,
+            0.56429459971604956
+          ],
+          [
+            101.43798139962195,
+            0.56432410017714574
+          ],
+          [
+            101.4382152997963,
+            0.56433959999259287
+          ],
+          [
+            101.43882639991847,
+            0.56438019988638644
+          ],
+          [
+            101.43918690035525,
+            0.56440410026908694
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 55,
+        "osm_id" : "311288911",
+        "code" : 5122,
+        "fclass" : "residential",
+        "name" : "Jl. Bukit Betabuh",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.001653729609113748
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 56,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.44024000017595,
+            0.56461400023596298
+          ],
+          [
+            101.43997749976188,
+            0.56464609973778579
+          ],
+          [
+            101.43964210030276,
+            0.56468719965459968
+          ],
+          [
+            101.43912709993577,
+            0.56465500032805949
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 56,
+        "osm_id" : "311288914",
+        "code" : 5122,
+        "fclass" : "residential",
+        "name" : "Jl. Sepat Besar",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.0011183700084133712
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 57,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.43983889984543,
+            0.56384010034042831
+          ],
+          [
+            101.43997749976188,
+            0.56464609973778579
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 57,
+        "osm_id" : "311288915",
+        "code" : 5141,
+        "fclass" : "service",
+        "name" : "Jl Sepat VI",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.00081782942315723219
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 58,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.44575290007634,
+            0.56232049969133868
+          ],
+          [
+            101.44691539972598,
+            0.56263079997148679
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 58,
+        "osm_id" : "311536518",
+        "code" : 5122,
+        "fclass" : "residential",
+        "name" : "perum. griya lestari",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.0012032006064112729
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 59,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.44736460029611,
+            0.56313179969282601
+          ],
+          [
+            101.44719289993242,
+            0.56307860029721724
+          ],
+          [
+            101.44691169991506,
+            0.56299140023298833
+          ],
+          [
+            101.44635060030004,
+            0.5627938002937185
+          ],
+          [
+            101.44567840023802,
+            0.56258660009154937
+          ],
+          [
+            101.44571230018255,
+            0.56246550008279428
+          ],
+          [
+            101.44575290007634,
+            0.56232049969133868
+          ],
+          [
+            101.44580210018682,
+            0.56214480004251755
+          ],
+          [
+            101.44631770040161,
+            0.56211400006111489
+          ],
+          [
+            101.44690659985974,
+            0.56229500031406587
+          ],
+          [
+            101.44691539972598,
+            0.56263079997148679
+          ],
+          [
+            101.44691169991506,
+            0.56299140023298833
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 59,
+        "osm_id" : "312400019",
+        "code" : 5122,
+        "fclass" : "residential",
+        "name" : "perum. griya lestari",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.0040603812189006399
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 60,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.44498839989478,
+            0.56202040042120416
+          ],
+          [
+            101.44490150020414,
+            0.56236580034146755
+          ],
+          [
+            101.4448858996646,
+            0.56240829960341898
+          ],
+          [
+            101.44483730030123,
+            0.56254099996721152
+          ],
+          [
+            101.44477439991869,
+            0.56271280015562297
+          ],
+          [
+            101.44468330039405,
+            0.56296149957358921
+          ],
+          [
+            101.44458950020532,
+            0.56321780006146582
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 60,
+        "osm_id" : "372545177",
+        "code" : 5122,
+        "fclass" : "residential",
+        "name" : "perum. permata land",
+        "ref" : "perum. permata land",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.0012634937186828095
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 61,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.41501599978864,
+            0.58784410022508382
+          ],
+          [
+            101.41502290028666,
+            0.58844929989533057
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 61,
+        "osm_id" : "421597461",
+        "code" : 5122,
+        "fclass" : "residential",
+        "name" : "Jl. Mas 1",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 30,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.00060523900877233782
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 62,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.41539280043747,
+            0.58783840032197077
+          ],
+          [
+            101.41539569985173,
+            0.58845189983537693
+          ],
+          [
+            101.41502290028666,
+            0.58844929989533057
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 62,
+        "osm_id" : "421597663",
+        "code" : 5122,
+        "fclass" : "residential",
+        "name" : "Jl. Mas 2",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.00098631499579700872
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 63,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.41575520024236,
+            0.58783290006834932
+          ],
+          [
+            101.4157523997535,
+            0.58840629971098224
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 63,
+        "osm_id" : "421597904",
+        "code" : 5122,
+        "fclass" : "residential",
+        "name" : "Jl. Mas 3",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 30,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.00057340648139814741
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 64,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.4446968001173,
+            0.56350059997276958
+          ],
+          [
+            101.44501929970096,
+            0.56261590000383421
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 64,
+        "osm_id" : "449606838",
+        "code" : 5122,
+        "fclass" : "residential",
+        "name" : "perum. permata land",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.00094164750118892716
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 65,
+      "geometry" : {
+        "type" : "LineString",
+        "coordinates" : [
+          [
+            101.44548019955164,
+            0.5624127998108861
+          ],
+          [
+            101.44541439975478,
+            0.56262309997612192
+          ],
+          [
+            101.44536569966738,
+            0.56273390004952262
+          ],
+          [
+            101.44500439973331,
+            0.56355170035072888
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 65,
+        "osm_id" : "449606839",
+        "code" : 5122,
+        "fclass" : "residential",
+        "name" : "perum. permata land",
+        "ref" : " ",
+        "oneway" : "B",
+        "maxspeed" : 0,
+        "layer" : 0,
+        "bridge" : "F",
+        "tunnel" : "F",
+        "Shape_Length" : 0.0012354394858831649
+      }
+    }
+  ]
+}
